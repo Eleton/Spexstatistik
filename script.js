@@ -35,112 +35,112 @@ Papa.parse("https://dl.dropboxusercontent.com/u/5955257/spexstatistik.csv", {
 		console.log("Done");
 		console.log(spexarna);
 
-		var svg = d3.select("#section0 span").append("svg")
-			.attr("width", width)
-			.attr("height", height);
+		initHeatMap();
+	}
+});
 
-		
+function initHeatMap(){
+	var svg = d3.select("#section0 span").append("svg")
+	.attr("width", width)
+	.attr("height", height);
 
-		var dataWindow = svg.append("rect").attr("width", width).attr("height", height).style("fill", "#ddd").style("opacity", 0.3);
 
-		var heatData = heatMap();
 
-		var flattenedHeatMap = heatData.reduce(function(a, b) {
-		  return a.concat(b);
-		}, []);
+	var dataWindow = svg.append("rect").attr("width", width).attr("height", height).style("fill", "#ddd").style("opacity", 0.3);
 
-		var color = d3.scale.sqrt()
-			.domain([0, 20])
-			.range([0, 60]);
+	var heatData = heatMap();
 
-		var heatChart = svg.selectAll("g")
-			.data(flattenedHeatMap)
-			.enter().append("g")
-			.attr("transform", function(d, i){
-				var x = 3 + (height/listOfGroups.length)*(i - listOfGroups.length*Math.floor(i/listOfGroups.length));
-				var y = 2 + (height/listOfGroups.length)*Math.floor(i/listOfGroups.length);
-				return "translate(" + x + "," + y + ")";
-			});
+	var flattenedHeatMap = heatData.reduce(function(a, b) {
+		return a.concat(b);
+	}, []);
 
-		var heatRects = heatChart.append("rect")
-			.attr("width", (height/listOfGroups.length - 5*0))
-			.attr("height", (height/listOfGroups.length - 5*0))
-			.attr("fill", function(d){ return d3.hsl(color(d), 1, 0.3).toString()})
-			.attr("opacity", function(d){return d === 0 ? 0.2 : 1})
-			.style("stroke", "white")
-			.style("stroke-opacity", 0.7);
+	var color = d3.scale.sqrt()
+	.domain([0, 20])
+	.range([0, 60]);
 
-		heatRects.on("click", function(d, i){
+	var heatChart = svg.selectAll("g")
+	.data(flattenedHeatMap)
+	.enter().append("g")
+	.attr("transform", function(d, i){
+		var x = 3 + (height/listOfGroups.length)*(i - listOfGroups.length*Math.floor(i/listOfGroups.length));
+		var y = 2 + (height/listOfGroups.length)*Math.floor(i/listOfGroups.length);
+		return "translate(" + x + "," + y + ")";
+	});
 
-			infoWindow.select("g").remove();
+	var heatRects = heatChart.append("rect")
+	.attr("width", (height/listOfGroups.length - 2))
+	.attr("height", (height/listOfGroups.length - 2))
+	.style("fill-opacity", function(d){return d === 0 ? 0.2 : 1})
+	.attr("fill", function(d){ return d3.hsl(color(d), 1, 0.3).toString()})
+	//.attr("opacity", function(d){return d === 0 ? 0.2 : 1})
+	.style("stroke", "white")
+	.style("stroke-opacity", 0.7);
+
+	heatRects.on("click", function(d, i){
+
+		infoWindow.select("g").remove();
 
 		var infoTextGroup = infoWindow.append("g")
-			.attr("transform", "translate(" + (width/4) + ", " + 30 + ")");
+		.attr("transform", "translate(" + (width/4) + ", " + 30 + ")");
 
-		//infoWindow.select("text").remove();
-		infoTextGroup.append("text")
-			.text(listOfGroups[Math.floor(i/listOfGroups.length)] + " -> " + listOfGroups[i % listOfGroups.length])
-			//.attr("x", width/4).attr("y", 30)
-			.style("text-anchor", "middle");
+	infoTextGroup.append("text")
+	.text(listOfGroups[Math.floor(i/listOfGroups.length)] + " -> " + listOfGroups[i % listOfGroups.length])
+		.style("text-anchor", "middle");
 
 		infoTextGroup.append("text")
 		.text(d === 1 ? "Har hänt 1 gång" : "Har hänt " + d + " gånger")
 		.attr("y", "1em")
 		.attr("text-anchor", "middle");
+	});
+
+	var infoWindow = svg.append("g").attr("transform", "translate(" + (width/2 + 10) + ",10)");
+	
+	infoWindow.append("rect")
+	.attr("width", width/2 - 20).attr("height", height - 20)
+	.style("fill", "#ddd").style("opacity", 0.3);
+
+	var graphButton1 = infoWindow.append("rect")
+	.attr("fill", "#ddd").attr("opacity", 0.3)
+	.attr("width", width/6 - 20).attr("height", 50).attr("fill", "black").attr("y", height - 70)
+	.on("click", function(){
+		changeGraph(heatMap);
+	});
+
+	var graphButton2 = infoWindow.append("rect")
+	.attr("fill", "#ddd").attr("opacity", 0.3)
+	.attr("width", width/6 - 20).attr("height", 50).attr("x", width/6).attr("fill", "black").attr("y", height - 70)
+	.on("click", function(){
+		changeGraph(heatMap2);
+	});
+
+	var graphButton3 = infoWindow.append("rect")
+	.attr("fill", "#ddd").attr("opacity", 0.3)
+	.attr("width", width/6 - 20).attr("height", 50).attr("x", 2*width/6).attr("fill", "black").attr("y", height - 70)
+	.on("click", function(){
+		changeGraph(heatMap3);
+	});
 
 
-			console.log(listOfGroups[Math.floor(i/listOfGroups.length)] + ", " + listOfGroups[i % listOfGroups.length])
-		});
+	infoWindow.on("click", function(){
+		//changeGraph(heatMap2);
+	});
+	//infoWindow.on("click", changeGraph(heatMap2));
 
-		var infoWindow = svg.append("g").attr("transform", "translate(" + (width/2 + 10) + ",10)");
-		
-		infoWindow.append("rect")
-			.attr("width", width/2 - 20).attr("height", height - 20)
-			.style("fill", "#ddd").style("opacity", 0.3)
-			//.attr("x", width/2 + 8).attr("y", 10);
+	function changeGraph(callback){
+		console.log("jag borde köra när jag klickas, inte annars");
+		heatData = callback();
 
-
-		//heatChart.append("text").text(function(d){return d}).attr("fill", "white").attr("y", 15);
-		
-
-		/*var heatRow = function(inData){
-			var row = svg.selectAll(".heatRects")
-				.data(inData)
-				.enter().append("rect")
-				.attr("x", function(d,i){return (height/listOfGroups.length)})
-				.attr("width", (height/listOfGroups.length - 5))
-				.attr("height", (height/listOfGroups.length - 5));
-		}
-
-		heatRow(heatData[0]);
-		/*var heatCol = svg.selectAll(".heatRow")
-			.data(heatData)
-			.enter().append("g")
-			.attr("transform", function(d,i){return "translate(0," + i*(height/listOfGroups.length) + ")"})
-			.append(heatRow(this, function(d){return d}));
-
-		
-
-		console.log(heatRow);
-			/*d.forEach(function(d2, j){
-				console.log("translate(" + i*(height/listOfGroups.length) + "," + j + ")");
-				return "translate(" + i + "," + j + ")";
-			})*
-
-		var heatRow = heatCol.append("g")
-			.data(function(d){console.log("heat" + d); return d})
-			.enter().append("rect")
-			//.attr("transform", function(d,i){return "translate(" + i*(height/listOfGroups.length) + ",0)"})
-			.attr("x", function(d,i){return (height/listOfGroups.length)})
-			.attr("width", (height/listOfGroups.length - 5))
-			.attr("height", (height/listOfGroups.length - 5));
-
-		/*var heat = svg.selectAll(".heatRects")
-			.data(deatData)
-			.enter().append("rect")
-			.attr()*/
+		flattenedHeatMap = heatData.reduce(function(a, b) {
+			return a.concat(b);
+		}, []);
+		heatChart.data(flattenedHeatMap);
+		console.log(heatChart.data());
+		heatRects//.attr("opacity", 1)
+		.transition().duration(2000)
+		.style("fill-opacity", function(d, i){return flattenedHeatMap[i] === 0 ? 0.2 : 1})
+		.attr("fill", function(d, i){return d3.hsl(color(flattenedHeatMap[i]), 1, 0.3).toString()})
 	}
-});
+}
 
 //KAN SÄKERT REFAKTORERAS TILL EN HÖGRE ORDNINGENS FUNKTION SOM GÖR DET HÄR, ISTÄLLET FÖR EN EXTRA FUNKTION
 function findIndex(entry){
@@ -161,32 +161,64 @@ function heatMap(){
 
 	spexarna.forEach(function(spexare){
 		for(var i = 0; i < spexare.groups.length - 1; i++){
-			//console.log(i+1);
 			var first = whatGroup(spexare.groups[i]);
 			var second = whatGroup(spexare.groups[i+1]);
-			//console.log(first + " " + second);
-			/*if(first >= 0 && second >= 0){
-				//console.log(heatMatrix);
-				heatMatrix[first][second]++;
-			}*/
 			if(first === 18 && second === 18){
 			}else{
 				heatMatrix[first][second]++;
 			}
 		}
 	})
-	console.log(heatMatrix);
-
-	var lol = 0;
-	heatMatrix.forEach(function(a){
-		a.forEach(function(b){
-			lol += b;
-		})
-	})
-	console.log("lol: " + lol)
 
 	return heatMatrix;
+}
 
+function heatMap2(){
+	var heatMatrix = listOfGroups.map(function(d){
+		return new Array(listOfGroups.length+1).join('0').split('').map(parseFloat);
+	});
+
+	spexarna.forEach(function(spexare){
+		for(var i = 0; i < spexare.groups.length - 1; i++){
+			for(var j = 0; j < i; j++){
+				if(i !== j){
+					var first = whatGroup(spexare.groups[i]);
+					var second = whatGroup(spexare.groups[j]);
+					if(first === 18 || second === 18){
+					}else{
+						heatMatrix[first][second]++;
+					}
+				}
+			}
+		}
+
+	})
+
+	return heatMatrix;
+}
+
+function heatMap3(){
+	var heatMatrix = listOfGroups.map(function(d){
+		return new Array(listOfGroups.length+1).join('0').split('').map(parseFloat);
+	});
+
+	spexarna.forEach(function(spexare){
+		for(var i = 0; i < spexare.groups.length - 1; i++){
+			for(var j = i; j < spexare.groups.length - 1; j++){
+				if(i !== j){
+					var first = whatGroup(spexare.groups[i]);
+					var second = whatGroup(spexare.groups[j]);
+					if(first === 18 || second === 18){
+					}else{
+						heatMatrix[first][second]++;
+					}
+				}
+			}
+		}
+
+	})
+
+	return heatMatrix;
 }
 
 
