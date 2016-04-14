@@ -10,7 +10,7 @@
 	<meta name="Resource-type" content="Document" />
 
 
-	<link rel="stylesheet" type="text/css" href="jquery.fullPage.css" />
+	<link rel="stylesheet" type="text/css" href="jquery.fullpage.css" />
 	<link rel="stylesheet" type="text/css" href="examples.css" />
 
 
@@ -40,6 +40,35 @@
 			right: 149px;
 			top: 9px;
 		}
+
+		.tooltip {
+			position: absolute;
+			text-align: center;
+			width: 60px;
+			height: 12px;
+			padding: 8px;
+			margin-top: -20px;
+			font: 10px sans-serif;
+			background: #def;
+			pointer-events: none;
+		}
+
+		.axis path,
+		.axis line {
+			fill: none;
+			stroke: #000;
+			shape-rendering: crispEdges;
+		}
+
+		.x.axis path {
+			display: none;
+		}
+
+		.line {
+			fill: none;
+			stroke: steelblue;
+			stroke-width: 5px;
+		}
 	</style>
 	<!--[if IE]>
 		<script type="text/javascript">
@@ -47,22 +76,24 @@
 		</script>
 	<![endif]-->
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
 
-	<script type="text/javascript" src="jquery.fullPage.js"></script>
+	<script type="text/javascript" src="jquery.fullpage.js"></script>
 	<script type="text/javascript" src="examples.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function() {
 			$('#fullpage').fullpage({
-				sectionsColor: ['#1bbc9b', '#4BBFC3', '#7BAABE', 'whitesmoke', '#ccddff'],
+				//sectionsColor: ['#1bbc9b', '#4BBFC3', '#7BAABE', 'whitesmoke', '#ccddff'],
+				sectionsColor: ['#eee', '#ccc', '#aaa', 'whitesmoke', '#ccddff'],
+				//sectionsColor: ['black', 'white', 'black', 'whitesmoke', '#ccddff'],
 				anchors: ['heatmap', 'secondPage', '3rdPage', '4thpage', 'lastPage'],
 				menu: '#menu',
 				scrollingSpeed: 500
 			});
 		});
 	</script>
-	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="https://d3js.org/d3.v3.min.js"></script>
 	<script type="text/javascript" src="papaparse.js"></script>
 	<script type="text/javascript" src="script.js"></script>
 
@@ -74,7 +105,7 @@
 	<li data-menuanchor="heatmap"><a href="#heatmap">Heatmap</a></li>
 	<li data-menuanchor="secondPage"><a href="#secondPage">Second slide</a></li>
 	<li data-menuanchor="3rdPage"><a href="#3rdPage">Third slide</a></li>
-	<li data-menuanchor="4thpage"><a href="#4thpage">Fourth slide</a></li>
+	<li data-menuanchor="4thpage" style="opacity: 0"><a href="#4thpage">Fourth slide</a></li>
 </ul>
 
 
@@ -90,7 +121,9 @@
 		<img src="imgs/fullPage.png" alt="fullPage" />-->
 	</div>
 	<div class="section" id="section1">
-	    <div class="slide">
+		<h1>Text</h1>
+		<span></span>
+	    <!-- <div class="slide">
 			<div class="intro">
 				<h1>Create Sliders</h1>
 				<p>Not only vertical scrolling but also horizontal scrolling. With fullPage.js you will be able to add horizontal sliders in the most simple way ever.</p>
@@ -118,24 +151,28 @@
 				<h1>Compatible</h1>
 				<p>Working in modern and old browsers too! IE 8 users don't have the fault of using that horrible browser! Lets give them a chance to see your site in a proper way!</p>
 			</div>
-		</div>
+		</div> -->
 	</div>
 	<div class="section" id="section2">
-		<div class="intro">
+		<h1>Text</h1>
+		<span></span>
+		<!-- <div class="intro">
 			<h1>Example</h1>
 			<p>HTML markup example to define 4 sections.</p>
 			<img src="imgs/example2.png" alt="example" />
-		</div>
+		</div> -->
 	</div>
 	<div class="section" id="section3">
-		<div class="intro">
+		<h1>Text</h1>
+		<span></span>
+		<!-- <div class="intro">
 			<h1>Working On Tablets</h1>
 			<p>
 				Designed to fit to different screen sizes as well as tablet and mobile devices.
 				<br /><br /><br /><br /><br /><br />
 			</p>
 		</div>
-		<img src="imgs/tablets.png" alt="tablets" />
+		<img src="imgs/tablets.png" alt="tablets" /> -->
 	</div>
 </div>
 

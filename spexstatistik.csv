@@ -1,0 +1,1258 @@
+firstname,lastname,group,year,yearName,realYear,shortYearName
+Ulrika,Kihlander,Directionen Directeur,0,Gauss,2000,gau
+Sara,Jernström,Directionen Ekonomichef,0,Gauss,2000,gau
+Claes,Nyberg,Directionen Producent,0,Gauss,2000,gau
+Anna,Malmqvist,KMP,0,Gauss,2000,gau
+Charlotte,Abrahamsson,KMP,0,Gauss,2000,gau
+Christin,Ebenhag,KMP,0,Gauss,2000,gau
+Maria,Wetterskog,KMP,0,Gauss,2000,gau
+Annika,Anderson,KMP,0,Gauss,2000,gau
+Jocke,Schéele,KMP,0,Gauss,2000,gau
+Lotta,Schéele,KMP Regi,0,Gauss,2000,gau
+Anna,Haraldsson,KMP,0,Gauss,2000,gau
+My,Hedhammar,KMP-C,0,Gauss,2000,gau
+Niklas,Ringdahl,Manus,0,Gauss,2000,gau
+Olof,Hernell,Manus,0,Gauss,2000,gau
+Pia,Andersson,Manus,0,Gauss,2000,gau
+Simon,Algesten,Manus,0,Gauss,2000,gau
+Johan,Eng,Manuschef,0,Gauss,2000,gau
+Rikard S.,Silverfur,Musikproducent,0,Gauss,2000,gau
+Lina,Nylén,Orkestern,0,Gauss,2000,gau
+Maximiliano,Egaña,Orkestern,0,Gauss,2000,gau
+Anna-Karin,Back,Orkestern,0,Gauss,2000,gau
+Johan,Bjurling,Orkestern,0,Gauss,2000,gau
+Qaryn,Eng,Orkestern,0,Gauss,2000,gau
+Malin,Kollberg,Orkestern,0,Gauss,2000,gau
+Mathias,Ljungberg,Orkestern,0,Gauss,2000,gau
+Rasmus,Bodvik,Orkestern,0,Gauss,2000,gau
+Eva-Karin,Nilsson,Orkestern,0,Gauss,2000,gau
+Martin,Sunnerberg,Orkestern,0,Gauss,2000,gau
+Håkan,Landsberg,Orkestern,0,Gauss,2000,gau
+Tobias,Reithmann,Orkestern,0,Gauss,2000,gau
+Anders,Lundquist,Orkestern,0,Gauss,2000,gau
+John,Lundbäck,Orkestern,0,Gauss,2000,gau
+Martin,Thuresson,Orkestern,0,Gauss,2000,gau
+Ulf,Åkerstedt,Orkestern,0,Gauss,2000,gau
+Anders,Enström,Orkestern,0,Gauss,2000,gau
+Ingemar,Petermann,Orkestern Orkesterchef,0,Gauss,2000,gau
+Birgitta,Elfversson,PR,0,Gauss,2000,gau
+Christopher,Muda,PR,0,Gauss,2000,gau
+Jenny,Hylin,PR,0,Gauss,2000,gau
+Magnus,Anderlund,PR,0,Gauss,2000,gau
+Mikael A.,Grufman,PR,0,Gauss,2000,gau
+Björn,Malmborg,PR,0,Gauss,2000,gau
+Pär,Båge,PR,0,Gauss,2000,gau
+Sara,Tengelin,PR,0,Gauss,2000,gau
+Karin,Lövquist,PR,0,Gauss,2000,gau
+Esther,Meyer-Malmborg,PR,0,Gauss,2000,gau
+Sofia,Lundberg,PR-C,0,Gauss,2000,gau
+Anna,Sköllermo,QM,0,Gauss,2000,gau
+Christoffer,Lewald,QM,0,Gauss,2000,gau
+Helene,Mattsson,QM,0,Gauss,2000,gau
+Johan,Jansén-Storbacka,QM,0,Gauss,2000,gau
+Jonas,Lyddby,QM,0,Gauss,2000,gau
+Kristin,Gahm,QM,0,Gauss,2000,gau
+Lena,Backe,QM,0,Gauss,2000,gau
+Mårten,Sundqvist,QM,0,Gauss,2000,gau
+Henrik,Eller,QM,0,Gauss,2000,gau
+Leif,Danfors,QM,0,Gauss,2000,gau
+Stefan,Styhr,QM,0,Gauss,2000,gau
+Johanna,Andersson,QM-C,0,Gauss,2000,gau
+Anna,Norström,Revisor,0,Gauss,2000,gau
+Anna,Cedvén,Revisor,0,Gauss,2000,gau
+Johan,Eidefors,Scengruppen Koreograf,0,Gauss,2000,gau
+Stina,Bengtson,Scengruppen Koreograf,0,Gauss,2000,gau
+Alexandra,Teleki,Scengruppen Koreograf,0,Gauss,2000,gau
+Boel,Sjöstrand,Scengruppen Regisseur,0,Gauss,2000,gau
+Kathrine,Hogseth,Scengruppen Regisseur,0,Gauss,2000,gau
+Simon,Bonnevier,Scengruppen Skådis,0,Gauss,2000,gau
+Jakob,Sundberg,Scengruppen Skådis,0,Gauss,2000,gau
+Emelie,Hammar,Scengruppen Skådis,0,Gauss,2000,gau
+Gustaf,Kalin,Scengruppen Skådis,0,Gauss,2000,gau
+Joakim,Landegren,Scengruppen Skådis,0,Gauss,2000,gau
+Magnus Lillebror,Nordstrand,Scengruppen Skådis Manus,0,Gauss,2000,gau
+Claes,Kollberg,Teknik,0,Gauss,2000,gau
+Josefin,Silverfur,Teknik,0,Gauss,2000,gau
+Marko,Petrovic,Teknik,0,Gauss,2000,gau
+Petter,Flodström,Teknik,0,Gauss,2000,gau
+Rickard,Casemyr,Teknik,0,Gauss,2000,gau
+Thomas,Amthor,Teknik,0,Gauss,2000,gau
+Patrik,Lindell,Teknik,0,Gauss,2000,gau
+Samantha,Bonnevier,Teknik,0,Gauss,2000,gau
+Johan,Almsén,Teknik,0,Gauss,2000,gau
+Fredrik,Ahnmé,Teknik,0,Gauss,2000,gau
+Måns,Nilsson,Teknik,0,Gauss,2000,gau
+Niklas,Johansson,Teknik Ljus,0,Gauss,2000,gau
+Göran,Helmers,Teknik Scenchef,0,Gauss,2000,gau
+Axel,Weyler,Teknikchef,0,Gauss,2000,gau
+Karolina,Boholm,Turnéchef,0,Gauss,2000,gau
+Cecilia,Sahlström,Orkestern Maestro,0,Gauss,2000,gau
+Pär,Båge,Directionen Directeur,1,1492,2001,1492
+Cecilia,Sahlström,Directionen Ekonomichef,1,1492,2001,1492
+My,Hedhammar,Directionen Producent,1,1492,2001,1492
+Anna,Kolm,KMP,1,1492,2001,1492
+Jenny,Hylin,KMP,1,1492,2001,1492
+Karin,Marklund,KMP,1,1492,2001,1492
+Therese,Sjöberg,KMP,1,1492,2001,1492
+Pia,Andersson,KMP,1,1492,2001,1492
+Samantha,Bonnevier,KMP Scenograf,1,1492,2001,1492
+Magnus,Tilert,KMP,1,1492,2001,1492
+Anna,Malmqvist,KMP-C,1,1492,2001,1492
+Boel,Sjöstrand,Manus,1,1492,2001,1492
+Frida,Norin,Manus,1,1492,2001,1492
+Petter,Magnusson,Manus,1,1492,2001,1492
+Claes,Nyberg,Manus,1,1492,2001,1492
+Stefan,Styhr,Manus,1,1492,2001,1492
+Helena,Sternberg,Manus,1,1492,2001,1492
+Johan,Eng,Manus,1,1492,2001,1492
+Lotta,Schéele,Manuschef,1,1492,2001,1492
+Olof,Hernell,Musikproducent,1,1492,2001,1492
+Erik,Wall,Orkestern,1,1492,2001,1492
+Maximiliano,Egaña,Orkestern,1,1492,2001,1492
+Simon,Algesten,Orkestern,1,1492,2001,1492
+Linda,Melin,Orkestern,1,1492,2001,1492
+Magnus,Wikström,Orkestern,1,1492,2001,1492
+Teitur,Arnarson,Orkestern,1,1492,2001,1492
+Martin,Sunnerberg,Orkestern,1,1492,2001,1492
+Marie,Steene,Orkestern,1,1492,2001,1492
+Viveca,Wallqvist,Orkestern,1,1492,2001,1492
+Anders,Lundquist,Orkestern,1,1492,2001,1492
+Jesper,Eklund,Orkestern,1,1492,2001,1492
+Martin,Thuresson,Orkestern,1,1492,2001,1492
+Ingemar,Petermann,Orkestern,1,1492,2001,1492
+Sylvain,Nau,Orkestern,1,1492,2001,1492
+Anders,Löfstrand,Orkestern,1,1492,2001,1492
+Qaryn,Eng,Orkestern,1,1492,2001,1492
+Patrick,Liu,Orkestern,1,1492,2001,1492
+Jonas,Lyddby,Orkestern,1,1492,2001,1492
+Joakim,Landegren,Orkestern Maestro,1,1492,2001,1492
+Leif,Danfors,Orkestern Orkesterchef,1,1492,2001,1492
+Anna,Gustrin,PR,1,1492,2001,1492
+Kristian,Karjus,PR,1,1492,2001,1492
+Kristin,Gahm,PR,1,1492,2001,1492
+Rasmus,Bodvik,PR,1,1492,2001,1492
+Björn,Malmborg,PR,1,1492,2001,1492
+Mikael A.,Grufman,PR,1,1492,2001,1492
+Anna,Landegren,PR,1,1492,2001,1492
+Esther,Meyer-Malmborg,PR-C,1,1492,2001,1492
+Anna,Haraldsson,QM,1,1492,2001,1492
+Anna,Sköllermo,QM,1,1492,2001,1492
+Betty,Hedman,QM,1,1492,2001,1492
+Christian,Hauck,QM,1,1492,2001,1492
+Fredrik,Ahnmé,QM,1,1492,2001,1492
+Mårten,Sundqvist,QM,1,1492,2001,1492
+Mathias,Ljungberg,QM,1,1492,2001,1492
+Tom-Andrew,Östberg,QM,1,1492,2001,1492
+Henrik,Eller,QM,1,1492,2001,1492
+Lena,Backe,QM-C,1,1492,2001,1492
+Niklas,Ringdahl,Scengruppen Regiassistent,1,1492,2001,1492
+Anna,Norström,Revisor,1,1492,2001,1492
+Anna,Cedvén,Revisor,1,1492,2001,1492
+Jonna,Ekman ,Scengruppen Koreograf,1,1492,2001,1492
+Stina,Bengtson,Scengruppen Koreograf,1,1492,2001,1492
+Gustaf,Kalin,Scengruppen Regisseur,1,1492,2001,1492
+Jennifer,Råsten,Scengruppen Skådis,1,1492,2001,1492
+Johan,Bjurling,Scengruppen Skådis,1,1492,2001,1492
+Anders,Enström,Scengruppen Skådis,1,1492,2001,1492
+Jakob,Sundberg,Scengruppen Skådis,1,1492,2001,1492
+Li,Jubner,Scengruppen Skådis,1,1492,2001,1492
+Gabriel,Paues,Scengruppen Skådis,1,1492,2001,1492
+Andreas,Gunberg,Teknik,1,1492,2001,1492
+Anna,Röjdeby,Teknik,1,1492,2001,1492
+Karin,Mosskin,Teknik,1,1492,2001,1492
+Maria,Högberg,Teknik,1,1492,2001,1492
+Marko,Petrovic,Teknik,1,1492,2001,1492
+Simon,Boitard,Teknik,1,1492,2001,1492
+Yohann,Loisel,Teknik,1,1492,2001,1492
+Staffan,Eketorp,Teknik,1,1492,2001,1492
+Patrik,Burehäll,Teknik,1,1492,2001,1492
+Måns,Nilsson,Teknik Ljud Systemadministratör,1,1492,2001,1492
+Axel,Krauth,Teknik Scenchef,1,1492,2001,1492
+Niklas,Johansson,Teknikchef,1,1492,2001,1492
+Sara,Tengelin,Turnéchef,1,1492,2001,1492
+Lotta,Schéele,Directionen Directeur,2,Al Capone,2002,alc
+Pia,Andersson,Directionen Ekonomichef,2,Al Capone,2002,alc
+Jennifer,Råsten,Directionen Producent,2,Al Capone,2002,alc
+Anna,Kolm,KMP,2,Al Capone,2002,alc
+Åsa,Olsson,KMP,2,Al Capone,2002,alc
+"Emma ""B1/2""",Styhr,KMP,2,Al Capone,2002,alc
+Karin,Marklund,KMP,2,Al Capone,2002,alc
+Therese,Sjöberg,KMP,2,Al Capone,2002,alc
+Magnus,Tilert,KMP-C,2,Al Capone,2002,alc
+Boel,Sjöstrand,Manus,2,Al Capone,2002,alc
+Frida,Norin,Manus,2,Al Capone,2002,alc
+Petter,Magnusson,Manus,2,Al Capone,2002,alc
+Gabriel,Paues,Manus,2,Al Capone,2002,alc
+Anders,Enström,Manus Gyckelpoolare,2,Al Capone,2002,alc
+Johan,Eng,Manuschef,2,Al Capone,2002,alc
+Joakim,Landegren,Musikproducent,2,Al Capone,2002,alc
+Florian,Waldow,Orkestern,2,Al Capone,2002,alc
+Måns,Engman,Orkestern,2,Al Capone,2002,alc
+Cecilia,Arn,Orkestern,2,Al Capone,2002,alc
+Fredrik,Royegård,Orkestern,2,Al Capone,2002,alc
+Anna,Lundgren,Orkestern,2,Al Capone,2002,alc
+Joakim,Ax,Orkestern,2,Al Capone,2002,alc
+Olof,Somell,Orkestern,2,Al Capone,2002,alc
+Tove,Båge,Orkestern,2,Al Capone,2002,alc
+Axel,Heim,Orkestern,2,Al Capone,2002,alc
+Johan,Thorsell ,Orkestern,2,Al Capone,2002,alc
+Anders,Sahlman,Orkestern,2,Al Capone,2002,alc
+Tomas,Andersson,Orkestern,2,Al Capone,2002,alc
+Anders,Lundquist,Orkestern,2,Al Capone,2002,alc
+Henric,Karlsson,Orkestern,2,Al Capone,2002,alc
+Walli,Dietrich,Orkestern,2,Al Capone,2002,alc
+Ingemar,Petermann,Orkestern,2,Al Capone,2002,alc
+Calle,Persson,Orkestern,2,Al Capone,2002,alc
+Magnus,Perlerius,Orkestern,2,Al Capone,2002,alc
+Nanna,Beckman,Orkestern,2,Al Capone,2002,alc
+Patrick,Liu,Orkestern,2,Al Capone,2002,alc
+Qaryn,Eng,Orkestern Maestro,2,Al Capone,2002,alc
+Aron,Ambrosiani,Orkestern Orkesterchef,2,Al Capone,2002,alc
+Göran,Ohlsson,PR,2,Al Capone,2002,alc
+Pär,Båge,PR,2,Al Capone,2002,alc
+Esther,Meyer-Malmborg,PR,2,Al Capone,2002,alc
+Karin,Strinning ,PR,2,Al Capone,2002,alc
+Linus,Andersson,PR,2,Al Capone,2002,alc
+Björn,Malmborg,PR,2,Al Capone,2002,alc
+Thomas,Gylling,PR,2,Al Capone,2002,alc
+Anna,Sjödin,PR,2,Al Capone,2002,alc
+Linda,Karlsson Ek,PR,2,Al Capone,2002,alc
+Marko,Petrovic,PR-C,2,Al Capone,2002,alc
+Jan,Pons,QM,2,Al Capone,2002,alc
+Johannes,Sjöman,QM,2,Al Capone,2002,alc
+Linda,Melin,QM,2,Al Capone,2002,alc
+Marilyn,Krukowski,QM,2,Al Capone,2002,alc
+Mårten,Sundqvist,QM,2,Al Capone,2002,alc
+Mia,Svärd,QM,2,Al Capone,2002,alc
+Mila,Guerra,QM,2,Al Capone,2002,alc
+Rebecca,Axelsson,QM,2,Al Capone,2002,alc
+Selene,Andersson ,QM,2,Al Capone,2002,alc
+Saana,Ruotsala,QM,2,Al Capone,2002,alc
+Eva,Hansén,QM-C,2,Al Capone,2002,alc
+Niklas,Ringdahl,Revisor,2,Al Capone,2002,alc
+Anna,Cedvén,Revisor,2,Al Capone,2002,alc
+Emil,Wanngren,Scengruppen Koreograf,2,Al Capone,2002,alc
+Anna,Haraldsson,Scengruppen Regisseur,2,Al Capone,2002,alc
+Stefan,Styhr,Scengruppen Regisseur Manus,2,Al Capone,2002,alc
+Tom-Andrew,Östberg,Scengruppen Skådis,2,Al Capone,2002,alc
+Gustaf,Kalin,Scengruppen Skådis,2,Al Capone,2002,alc
+Johan,Bjurling,Scengruppen Skådis,2,Al Capone,2002,alc
+Staffan,Eketorp,Scengruppen Skådis,2,Al Capone,2002,alc
+Maria,Berg,Scengruppen Skådis,2,Al Capone,2002,alc
+Anna,Landegren,Scengruppen Skådis,2,Al Capone,2002,alc
+Anna,Tarandi,Teknik,2,Al Capone,2002,alc
+Claes,Robertson,Teknik,2,Al Capone,2002,alc
+Jakob,Sundberg,Teknik,2,Al Capone,2002,alc
+Patrik,Burehäll,Teknik,2,Al Capone,2002,alc
+Klas,Boivie,Teknik,2,Al Capone,2002,alc
+Patrik,Lindell,Teknik,2,Al Capone,2002,alc
+Betty,Hedman,Teknik,2,Al Capone,2002,alc
+Lotta,Gunnarsson,Teknik,2,Al Capone,2002,alc
+Samantha,Bonnevier,Teknik,2,Al Capone,2002,alc
+Måns,Nilsson,Teknik Ljud Systemadministratör,2,Al Capone,2002,alc
+My,Hedhammar,Teknik Scenchef,2,Al Capone,2002,alc
+Anna,Röjdeby,Teknik Scenograf Ljus,2,Al Capone,2002,alc
+Anna,Malmqvist,Teknikchef,2,Al Capone,2002,alc
+Lena,Backe,Turnéchef,2,Al Capone,2002,alc
+Patrick,Liu,Directionen Directeur,3,Jack the Ripper,2003,jack
+Christian,Wedin,Directionen Ekonomichef,3,Jack the Ripper,2003,jack
+"Emma ""B1/2""",Styhr,Directionen Producent,3,Jack the Ripper,2003,jack
+Filip,Bonnevier,KMP,3,Jack the Ripper,2003,jack
+Anna,Kolm,KMP,3,Jack the Ripper,2003,jack
+Anni,Billving,KMP,3,Jack the Ripper,2003,jack
+Fanny,Kestner,KMP,3,Jack the Ripper,2003,jack
+Karin,Marklund,KMP,3,Jack the Ripper,2003,jack
+Marilyn,Krukowski,KMP,3,Jack the Ripper,2003,jack
+Petra,Blixt,KMP,3,Jack the Ripper,2003,jack
+Therese,Sjöberg,KMP-C,3,Jack the Ripper,2003,jack
+Jennifer,Råsten,Manus,3,Jack the Ripper,2003,jack
+Johan,Ribrant,Manus,3,Jack the Ripper,2003,jack
+Petter,Magnusson,Manus,3,Jack the Ripper,2003,jack
+Gabriel,Paues,Manus,3,Jack the Ripper,2003,jack
+Johan,Eng,Manus,3,Jack the Ripper,2003,jack
+Anna,Haraldsson,Manuschef,3,Jack the Ripper,2003,jack
+Anders,Sahlman,Musikproducent,3,Jack the Ripper,2003,jack
+Annika,Garneij,Orkestern,3,Jack the Ripper,2003,jack
+Ellen,Bergseth,Orkestern,3,Jack the Ripper,2003,jack
+Fredrik,Royegård,Orkestern,3,Jack the Ripper,2003,jack
+Åsa,Danielsson,Orkestern,3,Jack the Ripper,2003,jack
+Christoffer,Strandh,Orkestern,3,Jack the Ripper,2003,jack
+Olof,Somell,Orkestern,3,Jack the Ripper,2003,jack
+Martin,Sunnerberg,Orkestern,3,Jack the Ripper,2003,jack
+Johan,Thorsell ,Orkestern,3,Jack the Ripper,2003,jack
+Anders,Riber Gunnarson,Orkestern,3,Jack the Ripper,2003,jack
+Anders,Lundquist,Orkestern,3,Jack the Ripper,2003,jack
+Aron,Ambrosiani,Orkestern,3,Jack the Ripper,2003,jack
+Jesper,Hedin,Orkestern,3,Jack the Ripper,2003,jack
+Tomas,Olsson,Orkestern,3,Jack the Ripper,2003,jack
+Helen,Skrifvare,Orkestern,3,Jack the Ripper,2003,jack
+Ingemar,Petermann,Orkestern,3,Jack the Ripper,2003,jack
+Bianca,Krause,Orkestern,3,Jack the Ripper,2003,jack
+Lovisa,Algesten,Orkestern,3,Jack the Ripper,2003,jack
+Magnus,Perlerius,Orkestern,3,Jack the Ripper,2003,jack
+Malin,Odlander,Orkestern,3,Jack the Ripper,2003,jack
+Tove,Båge,Orkestern Gyckelpoolare,3,Jack the Ripper,2003,jack
+Qaryn,Eng,Orkestern Maestro Manus,3,Jack the Ripper,2003,jack
+Linda,Melin,Orkestern Orkesterchef,3,Jack the Ripper,2003,jack
+Daniel,Klevebring,PR,3,Jack the Ripper,2003,jack
+David,Gårsjö,PR,3,Jack the Ripper,2003,jack
+Eva,Hansén,PR,3,Jack the Ripper,2003,jack
+Kristian,Karjus,PR,3,Jack the Ripper,2003,jack
+Björn,Malmborg,PR,3,Jack the Ripper,2003,jack
+Esther,Meyer-Malmborg,PR,3,Jack the Ripper,2003,jack
+Sam,Saatchi,PR,3,Jack the Ripper,2003,jack
+Karin,Strinning ,PR-C,3,Jack the Ripper,2003,jack
+Björn,Leffler,QM,3,Jack the Ripper,2003,jack
+Caroline,Boholm,QM,3,Jack the Ripper,2003,jack
+Charlotta,Brodin ,QM,3,Jack the Ripper,2003,jack
+Jenny,Carlsson,QM,3,Jack the Ripper,2003,jack
+Joy,Zomborszki,QM,3,Jack the Ripper,2003,jack
+Karin,Sidenbladh,QM,3,Jack the Ripper,2003,jack
+Lotta,Rudling,QM,3,Jack the Ripper,2003,jack
+Magnus,Tilert,QM,3,Jack the Ripper,2003,jack
+Martin,Algotsson,QM,3,Jack the Ripper,2003,jack
+Jonas,Frid,QM,3,Jack the Ripper,2003,jack
+Anna,Korpi,QM-C,3,Jack the Ripper,2003,jack
+Karin,Jacobsson,QM-C,3,Jack the Ripper,2003,jack
+Pär,Båge,Revisor,3,Jack the Ripper,2003,jack
+Anna,Norström,Revisor,3,Jack the Ripper,2003,jack
+Mila,Guerra,Scengruppen Koreograf Regiassisten,3,Jack the Ripper,2003,jack
+Stefan,Styhr,Scengruppen Regisseur Manus,3,Jack the Ripper,2003,jack
+Mia,Svärd,Scengruppen Skådis,3,Jack the Ripper,2003,jack
+Lotta,Gunnarsson,Scengruppen Skådis,3,Jack the Ripper,2003,jack
+Maria,Åstrand,Scengruppen Skådis,3,Jack the Ripper,2003,jack
+Johan,Bjurling,Scengruppen Skådis,3,Jack the Ripper,2003,jack
+Patrik,Ek,Scengruppen Skådis,3,Jack the Ripper,2003,jack
+Anders,Enström,Scengruppen Skådis Manus,3,Jack the Ripper,2003,jack
+Hannes,Raudsepp,Teknik,3,Jack the Ripper,2003,jack
+Max,Thoursie,Teknik,3,Jack the Ripper,2003,jack
+My,Hedhammar,Teknik,3,Jack the Ripper,2003,jack
+Patrik,Burehäll,Teknik,3,Jack the Ripper,2003,jack
+Rebecca,Axelsson,Teknik,3,Jack the Ripper,2003,jack
+Samantha,Bonnevier,Teknik,3,Jack the Ripper,2003,jack
+Jakob,Sundberg,Teknik,3,Jack the Ripper,2003,jack
+Ian,Delahorne,Teknik Ljud,3,Jack the Ripper,2003,jack
+Måns,Nilsson,Teknik Ljud Systemadministratör,3,Jack the Ripper,2003,jack
+Jan,Pons,Teknik Ljus,3,Jack the Ripper,2003,jack
+Anna,Tarandi,Teknik Rekvisita,3,Jack the Ripper,2003,jack
+Betty,Hedman,Teknik Rekvisita,3,Jack the Ripper,2003,jack
+Claes,Robertson,Teknik Scenchef,3,Jack the Ripper,2003,jack
+Anna,Malmqvist,Teknikchef Scenograf,3,Jack the Ripper,2003,jack
+Linda,Karlsson Ek,Turnéchef,3,Jack the Ripper,2003,jack
+Martin,Sunnerberg,Directionen Directeur,4,Till Hafs,2004,hafs
+Patrik,Burehäll,Directionen Ekonomichef,4,Till Hafs,2004,hafs
+Anna,Haraldsson,Directionen Producent,4,Till Hafs,2004,hafs
+Cecilia,Wörlén,KMP,4,Till Hafs,2004,hafs
+Mia,Svärd,KMP,4,Till Hafs,2004,hafs
+Anna,Tarandi,KMP,4,Till Hafs,2004,hafs
+Anni,Billving,KMP,4,Till Hafs,2004,hafs
+Karin,Marklund,KMP,4,Till Hafs,2004,hafs
+Therese,Sjöberg,KMP,4,Till Hafs,2004,hafs
+Torbjörn,Paulson,KMP,4,Till Hafs,2004,hafs
+Anna,Kolm,KMP-C,4,Till Hafs,2004,hafs
+Gabriel,Paues,Manus,4,Till Hafs,2004,hafs
+Qaryn,Eng,Manus,4,Till Hafs,2004,hafs
+Anders,Sahlman,Manus,4,Till Hafs,2004,hafs
+Linda,Karlsson Ek,Manus,4,Till Hafs,2004,hafs
+Patrik,Ek,Manus,4,Till Hafs,2004,hafs
+Johan,Eng,Manus,4,Till Hafs,2004,hafs
+Johan,Bjurling,Manus Musikproducent,4,Till Hafs,2004,hafs
+Anders,Enström,Manuschef,4,Till Hafs,2004,hafs
+Annika,Garneij,Orkestern,4,Till Hafs,2004,hafs
+Guillaume,Donnet,Orkestern,4,Till Hafs,2004,hafs
+Lionel,Fiabane,Orkestern,4,Till Hafs,2004,hafs
+Fredrik,Royegård,Orkestern,4,Till Hafs,2004,hafs
+Åsa,Danielsson,Orkestern,4,Till Hafs,2004,hafs
+Katrin,Olsson,Orkestern,4,Till Hafs,2004,hafs
+Linda,Melin,Orkestern,4,Till Hafs,2004,hafs
+Staffan,Eketorp,Orkestern,4,Till Hafs,2004,hafs
+Olof,Somell,Orkestern,4,Till Hafs,2004,hafs
+Per,Sjödin,Orkestern,4,Till Hafs,2004,hafs
+Johan,Lindström,Orkestern,4,Till Hafs,2004,hafs
+Christoffer,Jevring,Orkestern,4,Till Hafs,2004,hafs
+Aron,Ambrosiani,Orkestern,4,Till Hafs,2004,hafs
+Emil,Johansson,Orkestern,4,Till Hafs,2004,hafs
+Emma,Sunnerberg,Orkestern,4,Till Hafs,2004,hafs
+Helen,Skrifvare,Orkestern,4,Till Hafs,2004,hafs
+Ingemar,Petermann,Orkestern,4,Till Hafs,2004,hafs
+Alexandra,Eklöf,Orkestern,4,Till Hafs,2004,hafs
+Calle,Persson,Orkestern,4,Till Hafs,2004,hafs
+Carolina,Lundmark,Orkestern,4,Till Hafs,2004,hafs
+Anders,Riber Gunnarson,Orkestern Maestro,4,Till Hafs,2004,hafs
+Tove,Båge,Orkestern Orkesterchef,4,Till Hafs,2004,hafs
+Anna,Röjdeby,PR,4,Till Hafs,2004,hafs
+Emil,Foghammar,PR,4,Till Hafs,2004,hafs
+Erica,Osterman,PR,4,Till Hafs,2004,hafs
+Eva,Hansén,PR,4,Till Hafs,2004,hafs
+Jakob,Sundberg,PR,4,Till Hafs,2004,hafs
+Jan,Pons,PR,4,Till Hafs,2004,hafs
+Gabriella,Silfwerbrand,PR,4,Till Hafs,2004,hafs
+Maria,Hultström,PR-C,4,Till Hafs,2004,hafs
+Christian,Kothe,QM,4,Till Hafs,2004,hafs
+Felicia,Östlin,QM,4,Till Hafs,2004,hafs
+Jessica,Jareman,QM,4,Till Hafs,2004,hafs
+Johan,Haraldsson,QM,4,Till Hafs,2004,hafs
+Jonas,Rehnman,QM,4,Till Hafs,2004,hafs
+Sam,Saatchi,QM,4,Till Hafs,2004,hafs
+Martin,Holm,QM,4,Till Hafs,2004,hafs
+John,Larsson,QM-C,4,Till Hafs,2004,hafs
+Pär,Båge,Revisor,4,Till Hafs,2004,hafs
+Anna,Norström,Revisor,4,Till Hafs,2004,hafs
+Stina,Slettenmark,Scengruppen Koreograf,4,Till Hafs,2004,hafs
+Sofie,Ek,Scengruppen Regisseur,4,Till Hafs,2004,hafs
+Sara,Babakhan,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Mattias,Nilsson,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Perikles,Ladopoulos,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Daniel,Åkerberg,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Maria,Åstrand,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Oskar,Dalhielm,Scengruppen Skådis,4,Till Hafs,2004,hafs
+Jonas,Frid,Teknik,4,Till Hafs,2004,hafs
+Martin,Algotsson,Teknik,4,Till Hafs,2004,hafs
+Tommie,Gannert,Teknik,4,Till Hafs,2004,hafs
+Arvid,Bennwik,Teknik,4,Till Hafs,2004,hafs
+Måns,Nilsson,Teknik Ljud Systemadministratör,4,Till Hafs,2004,hafs
+Ian,Delahorne,Teknik Ljud Webmaster,4,Till Hafs,2004,hafs
+Märta-Karin,Brandt,Teknik Ljus,4,Till Hafs,2004,hafs
+Joy,Zomborszki,Teknik Rekvisitör,4,Till Hafs,2004,hafs
+Marko,Petrovic,Teknik Scenchef,4,Till Hafs,2004,hafs
+Kristian,Karjus,Teknik Scenograf,4,Till Hafs,2004,hafs
+Magnus,Tilert,Teknikchef,4,Till Hafs,2004,hafs
+Petra,Blixt,Turnéchef,4,Till Hafs,2004,hafs
+Anders,Riber Gunnarson,Directionen Directeur,5,Ponnyexpressen,2005,ponny
+Martin,Holm,Directionen Ekonomichef,5,Ponnyexpressen,2005,ponny
+Sara,Babakhan,Directionen Producent,5,Ponnyexpressen,2005,ponny
+Cecilia,Wörlén,KMP,5,Ponnyexpressen,2005,ponny
+Katarina,Samuelsson,KMP,5,Ponnyexpressen,2005,ponny
+Lisa-Maria,Carensjö,KMP,5,Ponnyexpressen,2005,ponny
+Malin,Ström,KMP,5,Ponnyexpressen,2005,ponny
+Rebecca,Eriksson,KMP,5,Ponnyexpressen,2005,ponny
+Sofia,Regnell Andersson,KMP,5,Ponnyexpressen,2005,ponny
+Gabriella,Silfwerbrand,KMP,5,Ponnyexpressen,2005,ponny
+Torbjörn,Paulson,KMP-C,5,Ponnyexpressen,2005,ponny
+Martin,Sunnerberg,Manus,5,Ponnyexpressen,2005,ponny
+Aron,Ambrosiani,Manus,5,Ponnyexpressen,2005,ponny
+Linda,Melin,Manus,5,Ponnyexpressen,2005,ponny
+Patrik,Ek,Manus,5,Ponnyexpressen,2005,ponny
+Olof,Somell,Manus,5,Ponnyexpressen,2005,ponny
+Linda,Karlsson Ek,Manuschef,5,Ponnyexpressen,2005,ponny
+Qaryn,Eng,Manuschef,5,Ponnyexpressen,2005,ponny
+Andrew,Martin,Orkestern,5,Ponnyexpressen,2005,ponny
+Perikles,Ladopoulos,Orkestern,5,Ponnyexpressen,2005,ponny
+Alexandra,Eklöf,Orkestern,5,Ponnyexpressen,2005,ponny
+Emma,Enström,Orkestern,5,Ponnyexpressen,2005,ponny
+Katrin,Olsson,Orkestern,5,Ponnyexpressen,2005,ponny
+Staffan,Eketorp,Orkestern,5,Ponnyexpressen,2005,ponny
+Linnéa,Graaf,Orkestern,5,Ponnyexpressen,2005,ponny
+Andreas,Glans,Orkestern,5,Ponnyexpressen,2005,ponny
+Annika,Garneij,Orkestern,5,Ponnyexpressen,2005,ponny
+Oskar,Forsslund,Orkestern,5,Ponnyexpressen,2005,ponny
+Anders,Lundquist,Orkestern,5,Ponnyexpressen,2005,ponny
+Oskar,Dalhielm,Orkestern,5,Ponnyexpressen,2005,ponny
+Samuel,Stutz,Orkestern,5,Ponnyexpressen,2005,ponny
+Emil,Johansson,Orkestern,5,Ponnyexpressen,2005,ponny
+Helen,Skrifvare,Orkestern,5,Ponnyexpressen,2005,ponny
+Ingemar,Petermann,Orkestern,5,Ponnyexpressen,2005,ponny
+Johan,Bjurling,Orkestern Maestro Musikproducent,5,Ponnyexpressen,2005,ponny
+Fredrik,Royegård,Orkestern Orkesterchef,5,Ponnyexpressen,2005,ponny
+Åsa,Danielsson,PR,5,Ponnyexpressen,2005,ponny
+David,Wahlund,PR,5,Ponnyexpressen,2005,ponny
+Per,Pettersson,PR,5,Ponnyexpressen,2005,ponny
+Rasmus,Lindberg,PR,5,Ponnyexpressen,2005,ponny
+Jakob,Sundberg,PR,5,Ponnyexpressen,2005,ponny
+Tove,Båge,PR,5,Ponnyexpressen,2005,ponny
+Anna,Röjdeby,PR-C,5,Ponnyexpressen,2005,ponny
+Christian,Grundh,QM,5,Ponnyexpressen,2005,ponny
+Christian,Kothe,QM,5,Ponnyexpressen,2005,ponny
+Henning,Wiberg,QM,5,Ponnyexpressen,2005,ponny
+Jessica,Fromell,QM,5,Ponnyexpressen,2005,ponny
+Jessica,Jareman,QM,5,Ponnyexpressen,2005,ponny
+Justine,Gruel,QM,5,Ponnyexpressen,2005,ponny
+Karim,Cassimjee,QM,5,Ponnyexpressen,2005,ponny
+Kristina,Engström,QM,5,Ponnyexpressen,2005,ponny
+Marko,Petrovic,QM,5,Ponnyexpressen,2005,ponny
+Magnus,Perlerius,QM-C,5,Ponnyexpressen,2005,ponny
+Christian,Wedin,Revisor,5,Ponnyexpressen,2005,ponny
+Anna,Haraldsson,Revisor,5,Ponnyexpressen,2005,ponny
+Petra,Blixt,Scengruppen Koreograf,5,Ponnyexpressen,2005,ponny
+Sofhia,Josborg,Scengruppen Regiassistent,5,Ponnyexpressen,2005,ponny
+Sofie,Ek,Scengruppen Regisseur Manus,5,Ponnyexpressen,2005,ponny
+Daniel,Åkerberg,Scengruppen Sångchef,5,Ponnyexpressen,2005,ponny
+Anders,Sahlman,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Mattias,Nilsson,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Caroline,Åman,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Mattias,Nahlin,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Maria,Åstrand,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Sam,Saatchi,Scengruppen Skådis,5,Ponnyexpressen,2005,ponny
+Joy,Zomborszki,Teknikchef,5,Ponnyexpressen,2005,ponny
+Anna,Larsson,Teknik,5,Ponnyexpressen,2005,ponny
+Elin,Fischer,Teknik,5,Ponnyexpressen,2005,ponny
+Frederick,Heidrich,Teknik,5,Ponnyexpressen,2005,ponny
+Hannes,Berg,Teknik,5,Ponnyexpressen,2005,ponny
+Tomas,Vadfors,Teknik,5,Ponnyexpressen,2005,ponny
+Ulrika,Wansölin,Teknik,5,Ponnyexpressen,2005,ponny
+Julia,Ng,Teknik,5,Ponnyexpressen,2005,ponny
+Ian,Delahorne,Teknik Ljud,5,Ponnyexpressen,2005,ponny
+Christian,Larsson,Teknik Ljud,5,Ponnyexpressen,2005,ponny
+Magnus,Tilert,Teknik Scenograf,5,Ponnyexpressen,2005,ponny
+Emma,Sunnerberg,Turnéchef,5,Ponnyexpressen,2005,ponny
+Jakob,Sundberg,Directionen Directeur,6,Kristian Tyrann,2006,k8
+Linnéa,Graaf,Directionen Ekonomichef,6,Kristian Tyrann,2006,k9
+Magnus Lillebror,Nordstrand,Directionen Producent,6,Kristian Tyrann,2006,k40
+Torbjörn,Paulson,Directionen Producent,6,Kristian Tyrann,2006,k41
+Anna,Atmer,KMP,6,Kristian Tyrann,2006,k12
+Jenny,Hellenberg,KMP,6,Kristian Tyrann,2006,k13
+Johanna,Mases,KMP,6,Kristian Tyrann,2006,k14
+Marko,Petrovic,KMP,6,Kristian Tyrann,2006,k15
+Lisa-Maria,Carensjö,KMP-C,6,Kristian Tyrann,2006,k16
+Malin,Ström,KMP-C,6,Kristian Tyrann,2006,k17
+Tove,Båge,Manus,6,Kristian Tyrann,2006,k23
+Olof,Somell,Manus,6,Kristian Tyrann,2006,k24
+Daniel,Åkerberg,Manus,6,Kristian Tyrann,2006,k25
+Mattias,Nahlin,Manus,6,Kristian Tyrann,2006,k26
+Mattias,Nilsson,Manus,6,Kristian Tyrann,2006,k27
+Linda,Karlsson Ek,Manus,6,Kristian Tyrann,2006,k28
+Sofie,Ek,Manuschef,6,Kristian Tyrann,2006,k29
+Caroline,Åman,Musikproducent,6,Kristian Tyrann,2006,k30
+Misael,Berrios Salas,Orkestern,6,Kristian Tyrann,2006,k2
+Fredrik,Royegård,Orkestern,6,Kristian Tyrann,2006,k4
+Sofia,Ågren,Orkestern,6,Kristian Tyrann,2006,k6
+Gustav,Lindelöw,Orkestern,6,Kristian Tyrann,2006,k10
+Anders,Lundquist,Orkestern,6,Kristian Tyrann,2006,k53
+Marcus,Bruér,Orkestern,6,Kristian Tyrann,2006,k68
+Oskar,Forsslund,Orkestern,6,Kristian Tyrann,2006,k69
+Andreas,Glans,Orkestern,6,Kristian Tyrann,2006,k70
+Anna,Lundmark,Orkestern,6,Kristian Tyrann,2006,k72
+Oskar,Dalhielm,Orkestern,6,Kristian Tyrann,2006,k71
+Jenny,Vesterlund,Orkestern,6,Kristian Tyrann,2006,k74
+Emma,Sunnerberg,Orkestern,6,Kristian Tyrann,2006,k77
+Helen,Skrifvare,Orkestern,6,Kristian Tyrann,2006,k76
+Ingemar,Petermann,Orkestern,6,Kristian Tyrann,2006,k75
+Anna,Engzell,Orkestern,6,Kristian Tyrann,2006,k78
+Karin,Hildingsson ,Orkestern,6,Kristian Tyrann,2006,k79
+Magnus,Perlerius,Orkestern,6,Kristian Tyrann,2006,k55
+Perikles,Ladopoulos,Orkestern Maestro,6,Kristian Tyrann,2006,k22
+Tomas,Vadfors,Orkestern Orkesterchef,6,Kristian Tyrann,2006,k31
+Hamid,Shokatyan,PR,6,Kristian Tyrann,2006,k37
+Henning,Wiberg,PR,6,Kristian Tyrann,2006,k38
+Kristoffer,Mellberg,PR,6,Kristian Tyrann,2006,k34
+Lovisa,Blixt,PR,6,Kristian Tyrann,2006,k32
+Maja,Säfström,PR,6,Kristian Tyrann,2006,k36
+Per,Pettersson,PR,6,Kristian Tyrann,2006,k35
+Sebastian,Falk,PR,6,Kristian Tyrann,2006,k33
+Rasmus,Lindberg,PR-C,6,Kristian Tyrann,2006,k39
+Alexander,Jonsson,QM,6,Kristian Tyrann,2006,k44
+Christoffer,Hallersbo,QM,6,Kristian Tyrann,2006,k43
+John,Larsson,QM,6,Kristian Tyrann,2006,k45
+Louise,Linder,QM,6,Kristian Tyrann,2006,k46
+Sandra,Brinkhäll,QM,6,Kristian Tyrann,2006,k42
+Victoria,Sydow,QM,6,Kristian Tyrann,2006,k47
+Christian,Kothe,QM-C,6,Kristian Tyrann,2006,k49
+Kristina,Engström,QM-C,6,Kristian Tyrann,2006,k48
+Martin,Sunnerberg,Revisor,6,Kristian Tyrann,2006,k7
+Petra,Blixt,Revisor,6,Kristian Tyrann,2006,k51
+Maria,Åstrand,Scengruppen Koreograf,6,Kristian Tyrann,2006,k18
+Sara,Babakhan,Scengruppen Koreograf Regiassisten,6,Kristian Tyrann,2006,k19
+Martin,Nygren,Scengruppen Regisseur,6,Kristian Tyrann,2006,k50
+Johan,Nordberg,Scengruppen Skådis,6,Kristian Tyrann,2006,k3
+Petter,Sjöstrand,Scengruppen Skådis,6,Kristian Tyrann,2006,k5
+Karl-Johan,Andersson,Scengruppen Skådis,6,Kristian Tyrann,2006,k11
+Cecilia,Schött,Scengruppen Skådis,6,Kristian Tyrann,2006,k21
+Victoria,Wulff,Scengruppen Skådis,6,Kristian Tyrann,2006,k52
+Sam,Saatchi,Scengruppen Skådis Manus,6,Kristian Tyrann,2006,k20
+Hannes,Berg,Teknikchef,6,Kristian Tyrann,2006,k56
+Arvid,Bennwik,Teknik,6,Kristian Tyrann,2006,k58
+Carl,Breander,Teknik,6,Kristian Tyrann,2006,k59
+Erika,Ornstein,Teknik,6,Kristian Tyrann,2006,k62
+Jonian,Grazhdani,Teknik,6,Kristian Tyrann,2006,k60
+Magnus,Tilert,Teknik,6,Kristian Tyrann,2006,k63
+Oskar,Holmqvist,Teknik,6,Kristian Tyrann,2006,k61
+Stefan,Axelsson,Teknik,6,Kristian Tyrann,2006,k57
+Ian,Delahorne,Teknik Ljud,6,Kristian Tyrann,2006,k64
+Kristoffer,Myrsten,Teknik Rekvisitör,6,Kristian Tyrann,2006,k65
+Ulrika,Wansölin,Teknik Scenchef,6,Kristian Tyrann,2006,k66
+Anna,Larsson,Teknik Scenograf,6,Kristian Tyrann,2006,k67
+Christian,Grundh,Turnéchef,6,Kristian Tyrann,2006,k73
+Magnus Lillebror,Nordstrand,Directionen Directeur,7,Guinness,2007,gui
+Andreas,Glans,Directionen Ekonomichef,7,Guinness,2007,gui
+Maria,Åstrand,Directionen Producent,7,Guinness,2007,gui
+Anna,Atmer,KMP,7,Guinness,2007,gui
+Filippa,Fleetwood,KMP,7,Guinness,2007,gui
+Johanna,Mases,KMP,7,Guinness,2007,gui
+Karl-Johan,Andersson,KMP,7,Guinness,2007,gui
+Katarina,Samuelsson,KMP,7,Guinness,2007,gui
+Sofia,Regnell Andersson,KMP,7,Guinness,2007,gui
+Marko,Petrovic,KMP,7,Guinness,2007,gui
+Jenny,Hellenberg,KMP-C,7,Guinness,2007,gui
+Jonathan,Hise Kaldma,Manus,7,Guinness,2007,gui
+Tove,Båge,Manus,7,Guinness,2007,gui
+Miranda,Edner,Manus,7,Guinness,2007,gui
+Linda,Karlsson Ek,Manus,7,Guinness,2007,gui
+Mattias,Nahlin,Manus,7,Guinness,2007,gui
+Mattias,Nilsson,Manus,7,Guinness,2007,gui
+Sofie,Ek,Manus,7,Guinness,2007,gui
+Sam,Saatchi,Manuschef,7,Guinness,2007,gui
+Misael,Berrios Salas,Orkestern,7,Guinness,2007,gui
+Jessica,Djurberg,Orkestern,7,Guinness,2007,gui
+Erik,Haster,Orkestern,7,Guinness,2007,gui
+Knapp Karin,Norrfors,Orkestern,7,Guinness,2007,gui
+Bo,Ekdahl,Orkestern,7,Guinness,2007,gui
+Elias,Lousseief,Orkestern,7,Guinness,2007,gui
+Christian,Hersborn,Orkestern,7,Guinness,2007,gui
+Anders,Lundquist,Orkestern,7,Guinness,2007,gui
+Anna,Lundmark,Orkestern,7,Guinness,2007,gui
+Lisa-Maria,Carensjö,Orkestern,7,Guinness,2007,gui
+Adam,Renberg,Orkestern,7,Guinness,2007,gui
+Emma,Sunnerberg,Orkestern,7,Guinness,2007,gui
+Helen,Skrifvare,Orkestern,7,Guinness,2007,gui
+Myriam,Le Normand,Orkestern,7,Guinness,2007,gui
+Ingemar,Petermann,Orkestern,7,Guinness,2007,gui
+Anna,Engzell,Orkestern,7,Guinness,2007,gui
+Fredrik,Royegård,Orkestern,7,Guinness,2007,gui
+Samuel,Petersson,Orkestern Maestro,7,Guinness,2007,gui
+Oskar,Forsslund,Orkestern Orkesterchef,7,Guinness,2007,gui
+Christian,Grundh,PR,7,Guinness,2007,gui
+Erika,Ornstein,PR,7,Guinness,2007,gui
+Hamid,Shokatyan,PR,7,Guinness,2007,gui
+Johan,Haraldsson,PR,7,Guinness,2007,gui
+Kathrin,Vorwerk,PR,7,Guinness,2007,gui
+Lovisa,Blixt,PR,7,Guinness,2007,gui
+Maja,Säfström,PR,7,Guinness,2007,gui
+Malin,Kairis,PR,7,Guinness,2007,gui
+Sofia,Ågren,PR Gyckelpoolare,7,Guinness,2007,gui
+Christian,Kothe,PR-C,7,Guinness,2007,gui
+Alexander,Busnyuk,QM,7,Guinness,2007,gui
+Elin,Fischer,QM,7,Guinness,2007,gui
+Henning,Wiberg,QM,7,Guinness,2007,gui
+Johan,Björk,QM,7,Guinness,2007,gui
+Karin,Nilsson,QM,7,Guinness,2007,gui
+Kristoffer,Mellberg,QM,7,Guinness,2007,gui
+Linnéa,Graaf,QM,7,Guinness,2007,gui
+Olof,Somell,QM,7,Guinness,2007,gui
+Sebastian,Falk,QM,7,Guinness,2007,gui
+Ulrika,Isberg,QM,7,Guinness,2007,gui
+Victoria,Sydow,QM-C,7,Guinness,2007,gui
+Gustaf,Kalin,Scengruppen Regikonsult,7,Guinness,2007,gui
+Martin,Sunnerberg,Revisor,7,Guinness,2007,gui
+Magnus,Tilert,Revisor,7,Guinness,2007,gui
+Carolina,Ekdahl,Scengruppen Koreograf,7,Guinness,2007,gui
+Anders,Sahlman,Scengruppen Regisseur,7,Guinness,2007,gui
+Daniel,Åkerberg,Scengruppen Regisseur,7,Guinness,2007,gui
+Petter,Sjöstrand,Scengruppen Skådis,7,Guinness,2007,gui
+Staffan,Eketorp,Scengruppen Skådis,7,Guinness,2007,gui
+Caroline,Wennerström,Scengruppen Skådis,7,Guinness,2007,gui
+Johan,Billgren,Scengruppen Skådis,7,Guinness,2007,gui
+Madeleine,Sandgren,Scengruppen Skådis,7,Guinness,2007,gui
+Johan,Bjurling,Scengruppen Skådis Musikproducent,7,Guinness,2007,gui
+Anna,Larsson,Teknik,7,Guinness,2007,gui
+Jesper,Schullström,Teknik,7,Guinness,2007,gui
+Jonas,Heder,Teknik,7,Guinness,2007,gui
+Jonian,Grazhdani,Teknik,7,Guinness,2007,gui
+Kristoffer,Myrsten,Teknik,7,Guinness,2007,gui
+Sofie,Jacobsen,Teknik,7,Guinness,2007,gui
+Stefan,Axelsson,Teknik,7,Guinness,2007,gui
+Tomas,Vadfors,Teknik,7,Guinness,2007,gui
+Ian,Delahorne,Teknik Ljud,7,Guinness,2007,gui
+Hannes,Berg,Teknikchef,7,Guinness,2007,gui
+Ulrika,Wansölin,Teknikchef,7,Guinness,2007,gui
+Caroline,Åman,Turnéchef,7,Guinness,2007,gui
+Magnus,Tilert,Directionen Directeur,8,Pius III,2008,pius
+Christian,Kothe,Directionen Ekonomichef,8,Pius III,2008,pius
+Anna,Larsson,Directionen Producent,8,Pius III,2008,pius
+Elisabeth,Schriefer ,KMP,8,Pius III,2008,pius
+Niklas,Leveau,KMP,8,Pius III,2008,pius
+Sofia,Regnell Andersson,KMP,8,Pius III,2008,pius
+Anna-Karin,Andermo,KMP,8,Pius III,2008,pius
+Maria,Tauberman,KMP,8,Pius III,2008,pius
+Marko,Petrovic,KMP,8,Pius III,2008,pius
+Anna,Atmer,KMP-C,8,Pius III,2008,pius
+Aron,Ambrosiani,Manus,8,Pius III,2008,pius
+Joy,Zomborszki,Manus,8,Pius III,2008,pius
+Karl-Johan,Andersson,Manus,8,Pius III,2008,pius
+Linda,Karlsson Ek,Manus,8,Pius III,2008,pius
+Mattias,Nilsson,Manus,8,Pius III,2008,pius
+Petter,Sjöstrand,Manus,8,Pius III,2008,pius
+Mattias,Nahlin,Manus,8,Pius III,2008,pius
+Kristoffer,Mellberg,Manuschef,8,Pius III,2008,pius
+Henrik,Lindberg,Orkestern,8,Pius III,2008,pius
+Jessica,Djurberg,Orkestern,8,Pius III,2008,pius
+Kristoffer,Pöljö,Orkestern,8,Pius III,2008,pius
+Anna,Engzell,Orkestern,8,Pius III,2008,pius
+Emma,Sunnerberg,Orkestern,8,Pius III,2008,pius
+Robin,Tyfors,Orkestern,8,Pius III,2008,pius
+Misael,Berrios Salas,Orkestern,8,Pius III,2008,pius
+Jan,Smith,Orkestern,8,Pius III,2008,pius
+Anders,Lundquist,Orkestern,8,Pius III,2008,pius
+Martin,Gustafson,Orkestern,8,Pius III,2008,pius
+Johan,Alvfors,Orkestern,8,Pius III,2008,pius
+Lisa-Maria,Carensjö,Orkestern,8,Pius III,2008,pius
+Adam,Renberg,Orkestern,8,Pius III,2008,pius
+Andreas,Bergfelt,Orkestern,8,Pius III,2008,pius
+Helen,Skrifvare,Orkestern,8,Pius III,2008,pius
+Ingemar,Petermann,Orkestern,8,Pius III,2008,pius
+Erik,Haster,Orkestern Maestro,8,Pius III,2008,pius
+Tomas,Vadfors,Orkestern Musikproducent,8,Pius III,2008,pius
+Oskar,Forsslund,Orkestern Musikproducent,8,Pius III,2008,pius
+Knapp Karin,Norrfors,Orkestern Orkesterchef,8,Pius III,2008,pius
+Jonas,Heder,PR,8,Pius III,2008,pius
+Linda,Svedberg,PR,8,Pius III,2008,pius
+Malin,Engzell Liljefeldt,PR,8,Pius III,2008,pius
+Olle,Berg,PR,8,Pius III,2008,pius
+Jenny,Ohlzon,PR,8,Pius III,2008,pius
+Erik,Fredriksson,QM,8,Pius III,2008,pius
+Gunnar,Karlsson,QM,8,Pius III,2008,pius
+Henning,Wiberg,QM,8,Pius III,2008,pius
+John,Paulsson,QM,8,Pius III,2008,pius
+Mats,Carensjö,QM,8,Pius III,2008,pius
+Stefan,Axelsson,QM,8,Pius III,2008,pius
+Victoria,Sydow,QM,8,Pius III,2008,pius
+Frida,Lundin,QM,8,Pius III,2008,pius
+Hannes,Berg,QM PR,8,Pius III,2008,pius
+Kathrin,Vorwerk,QM-C,8,Pius III,2008,pius
+Martin,Sunnerberg,Revisor,8,Pius III,2008,pius
+Olof,Somell,Revisor,8,Pius III,2008,pius
+Carolina,Ekdahl,Scengruppen Koreograf,8,Pius III,2008,pius
+Sofie,Jacobsen,Scengruppen Regisseur,8,Pius III,2008,pius
+Caroline,Wennerström,Scengruppen Skådis,8,Pius III,2008,pius
+Elin,Johansson,Scengruppen Skådis,8,Pius III,2008,pius
+Gustaf,Wessberg,Scengruppen Skådis,8,Pius III,2008,pius
+Theresa,Hesselbom,Scengruppen Skådis,8,Pius III,2008,pius
+Jonatan,Rostén,Scengruppen Skådis,8,Pius III,2008,pius
+Niclas,Blomberg,Scengruppen Skådis,8,Pius III,2008,pius
+Anna,Holmberg,Teknik,8,Pius III,2008,pius
+Annie,Gustafsson,Teknik,8,Pius III,2008,pius
+Kristoffer,Myrsten,Teknik,8,Pius III,2008,pius
+Nicolas,Lisle,Teknik,8,Pius III,2008,pius
+Ninni,Jonasson,Teknik,8,Pius III,2008,pius
+Sergio,Gayoso,Teknik,8,Pius III,2008,pius
+Janrik,Kindestam,Teknik Ljud,8,Pius III,2008,pius
+Jonian,Grazhdani,Teknik Ljus,8,Pius III,2008,pius
+Jesper,Schullström,Teknikchef,8,Pius III,2008,pius
+Erika,Ornstein,Turnéchef PR-C,8,Pius III,2008,pius
+Knapp Karin,Norrfors,Directionen Directeur,9,Shangri La,2009,sl
+Sofia,Termén,Directionen Ekonomichef,9,Shangri La,2009,sl
+Hannes,Berg,Directionen Producent,9,Shangri La,2009,sl
+Anna,Lundmark,KMP,9,Shangri La,2009,sl
+Elisabeth,Schriefer ,KMP,9,Shangri La,2009,sl
+Erika,Ornstein,KMP,9,Shangri La,2009,sl
+Sofia,Regnell Andersson,KMP,9,Shangri La,2009,sl
+Frida,Lundin,KMP,9,Shangri La,2009,sl
+Josephine,Brofjorden,KMP,9,Shangri La,2009,sl
+Maria,Tauberman,KMP-C,9,Shangri La,2009,sl
+Aron,Ambrosiani,Manus,9,Shangri La,2009,sl
+Elin,Johansson,Manus,9,Shangri La,2009,sl
+Joy,Zomborszki,Manus,9,Shangri La,2009,sl
+Louise,Linder,Manus,9,Shangri La,2009,sl
+Sam,Saatchi,Manus,9,Shangri La,2009,sl
+Niclas,Blomberg,Manus,9,Shangri La,2009,sl
+Mattias,Nahlin,Manuschef,9,Shangri La,2009,sl
+Mats,Linder,Musikproducent,9,Shangri La,2009,sl
+Stephanie,Wikström,Orkestern,9,Shangri La,2009,sl
+Markus,Silberstein Hont,Orkestern,9,Shangri La,2009,sl
+Kristoffer,Pöljö,Orkestern,9,Shangri La,2009,sl
+Laura,Geißler,Orkestern,9,Shangri La,2009,sl
+Andreas,Bergfelt,Orkestern,9,Shangri La,2009,sl
+Anna,Engzell,Orkestern,9,Shangri La,2009,sl
+Erik,Haster,Orkestern,9,Shangri La,2009,sl
+Susanne,Forchheimer,Orkestern,9,Shangri La,2009,sl
+Nils,Efraimsson,Orkestern,9,Shangri La,2009,sl
+Georgia,Kontesidou,Orkestern,9,Shangri La,2009,sl
+Jan,Smith,Orkestern,9,Shangri La,2009,sl
+Anders,Lundquist,Orkestern,9,Shangri La,2009,sl
+Johan,Alvfors,Orkestern,9,Shangri La,2009,sl
+Lisa-Maria,Carensjö,Orkestern,9,Shangri La,2009,sl
+Adam,Renberg,Orkestern,9,Shangri La,2009,sl
+Helen,Skrifvare,Orkestern,9,Shangri La,2009,sl
+Ingemar,Petermann,Orkestern,9,Shangri La,2009,sl
+Sandra,Tamm,Orkestern,9,Shangri La,2009,sl
+Niklas,Tamm,Orkestern Maestro,9,Shangri La,2009,sl
+Robin,Tyfors,Orkestern Orkesterchef,9,Shangri La,2009,sl
+Björn,Ottosson,PR,9,Shangri La,2009,sl
+Linda,Svedberg,PR,9,Shangri La,2009,sl
+Malin,Engzell Liljefeldt,PR,9,Shangri La,2009,sl
+Markus,Johansson,PR,9,Shangri La,2009,sl
+Terese,Penna,PR,9,Shangri La,2009,sl
+Cecilia,Schött,PR-C,9,Shangri La,2009,sl
+Jenny,Hellenberg,PR-C,9,Shangri La,2009,sl
+Aiman,Josefsson,QM,9,Shangri La,2009,sl
+Anna,Larsson,QM,9,Shangri La,2009,sl
+Anna-Karin,Andermo,QM,9,Shangri La,2009,sl
+Henning,Wiberg,QM,9,Shangri La,2009,sl
+Karin,Nilsson,QM,9,Shangri La,2009,sl
+Kristoffer,Mellberg,QM,9,Shangri La,2009,sl
+Malin,Westerlind,QM,9,Shangri La,2009,sl
+Tomas,Vadfors,QM,9,Shangri La,2009,sl
+Ulrika,Isberg,QM,9,Shangri La,2009,sl
+Ulrika,Wansölin,QM,9,Shangri La,2009,sl
+Christian,Kothe,QM,9,Shangri La,2009,sl
+Magnus,Tilert,QM-C,9,Shangri La,2009,sl
+Linnéa,Graaf,Revisor,9,Shangri La,2009,sl
+Olof,Somell,Revisor,9,Shangri La,2009,sl
+Petter,Sjöstrand,Scengruppen Koreograf,9,Shangri La,2009,sl
+Ivan,Thomson,Scengruppen Koreograf,9,Shangri La,2009,sl
+Mattias,Nilsson,Scengruppen Regisseur,9,Shangri La,2009,sl
+Caroline,Wennerström,Scengruppen Sångchef,9,Shangri La,2009,sl
+Oskar,Forsslund,Scengruppen Skådis,9,Shangri La,2009,sl
+Hanna,Asplund,Scengruppen Skådis,9,Shangri La,2009,sl
+Lena,Beckman,Scengruppen Skådis,9,Shangri La,2009,sl
+Theresa,Hesselbom,Scengruppen Skådis,9,Shangri La,2009,sl
+Gustaf,Wessberg,Scengruppen Skådis,9,Shangri La,2009,sl
+Kristoffer,Myrsten,Teknik,9,Shangri La,2009,sl
+Martin,Söderberg,Teknik,9,Shangri La,2009,sl
+Oscar,Canow,Teknik,9,Shangri La,2009,sl
+Sebastian,Orre,Teknik,9,Shangri La,2009,sl
+Ian,Delahorne,Teknik Ljud,9,Shangri La,2009,sl
+Nemie,Harmokivi,Teknik Ljus,9,Shangri La,2009,sl
+Amy,Zhu,Teknik Rekvisitör,9,Shangri La,2009,sl
+Sergio,Gayoso,Teknik Rekvisitör,9,Shangri La,2009,sl
+Annie,Gustafsson,Teknik Scenchef,9,Shangri La,2009,sl
+Anna,Holmberg,Teknik Scenograf,9,Shangri La,2009,sl
+Ninni,Jonasson,Teknik Scenograf,9,Shangri La,2009,sl
+Jonian,Grazhdani,Teknikchef,9,Shangri La,2009,sl
+Stefan,Axelsson,Turnéchef,9,Shangri La,2009,sl
+Aron,Ambrosiani,Directionen Directeur,10,Gustav III,2010,G3
+Kathrin,Vorwerk,Directionen Ekonomichef,10,Gustav III,2010,G3
+Oskar,Forsslund,Directionen Producent,10,Gustav III,2010,G3
+Elisabeth,Schriefer,Directionen Turnéchef,10,Gustav III,2010,G3
+Anna Maria,Stipic,KMP,10,Gustav III,2010,G3
+Erika,Ornstein,KMP,10,Gustav III,2010,G3
+Kristoffer,Myrsten,KMP,10,Gustav III,2010,G3
+Linda,Svedberg,KMP,10,Gustav III,2010,G3
+Marko,Petrovic,KMP,10,Gustav III,2010,G3
+Sara,Carlén,KMP,10,Gustav III,2010,G3
+Sofia,Regnell Andersson,KMP,10,Gustav III,2010,G3
+Anna,Lundmark,KMP-C,10,Gustav III,2010,G3
+Anna-Karin,Andermo,Manus,10,Gustav III,2010,G3
+Frida,Lundin,Manus,10,Gustav III,2010,G3
+Kristoffer,Mellberg,Manus,10,Gustav III,2010,G3
+Robin,Tyrfors,Manus,10,Gustav III,2010,G3
+John,Larsson,Manuschef,10,Gustav III,2010,G3
+Adam,Renberg,Orkestern,10,Gustav III,2010,G3
+Anders,Lundquist,Orkestern,10,Gustav III,2010,G3
+Andreas,Bergfelt,Orkestern,10,Gustav III,2010,G3
+Dennis,Kylén,Orkestern,10,Gustav III,2010,G3
+Georges,Daval,Orkestern,10,Gustav III,2010,G3
+Henrik,Tyrfors,Orkestern,10,Gustav III,2010,G3
+Jan,Smith,Orkestern,10,Gustav III,2010,G3
+Johanna,Swartling,Orkestern,10,Gustav III,2010,G3
+Jonatan,Murray,Orkestern,10,Gustav III,2010,G3
+Jonatan,Hallenberg,Orkestern,10,Gustav III,2010,G3
+Knapp Karin,Norrfors,Orkestern,10,Gustav III,2010,G3
+Kristoffer,Pöljö,Orkestern,10,Gustav III,2010,G3
+Lisa-Maria,Carensjö,Orkestern,10,Gustav III,2010,G3
+Lydia,Stern,Orkestern,10,Gustav III,2010,G3
+Markus,Silberstein Hont,Orkestern,10,Gustav III,2010,G3
+Nils,Efraimsson,Orkestern,10,Gustav III,2010,G3
+Sandra,Tamm,Orkestern Maestro,10,Gustav III,2010,G3
+Stephanie,Wikström,Orkestern,10,Gustav III,2010,G3
+Susanne,Forchheimer,Orkestern,10,Gustav III,2010,G3
+Anna,Engzell,Orkestern Orkesterchef,10,Gustav III,2010,G3
+Axel,Hammarbäck,PR,10,Gustav III,2010,G3
+Hanna,Asplund,PR,10,Gustav III,2010,G3
+Johan,Lundh Heinstedt,PR,10,Gustav III,2010,G3
+Jonian,Grazhdani,PR,10,Gustav III,2010,G3
+Malin,Engzell Liljefeldt,PR,10,Gustav III,2010,G3
+Malin,Westerlind,PR,10,Gustav III,2010,G3
+Stefan,Axelsson,PR,10,Gustav III,2010,G3
+Mengxiao,He,PR-C,10,Gustav III,2010,G3
+Aiman,Josefsson,QM,10,Gustav III,2010,G3
+Anna,Röjdeby,QM,10,Gustav III,2010,G3
+Arvid,Bennwik,QM,10,Gustav III,2010,G3
+David,Goldea,QM,10,Gustav III,2010,G3
+Hannes,Berg,QM,10,Gustav III,2010,G3
+Joy,Zomborszki,QM,10,Gustav III,2010,G3
+Karin,Nilsson,QM,10,Gustav III,2010,G3
+Mattias,Nilsson,QM,10,Gustav III,2010,G3
+Olof,Somell,QM,10,Gustav III,2010,G3
+Henning,Wiberg,QM-C,10,Gustav III,2010,G3
+Christian,Kothe,Revisor,10,Gustav III,2010,G3
+Linnéa,Graaf,Revisor,10,Gustav III,2010,G3
+Josephine,Brofjorden,Scengruppen Koreograf,10,Gustav III,2010,G3
+Johan,Alvfors,Scengruppen Musikproducent,10,Gustav III,2010,G3
+Tomas,Andersson,Scengruppen Musikproducent,10,Gustav III,2010,G3
+David,Carlson,Scengruppen Regisseur,10,Gustav III,2010,G3
+Mattias,Nahlin,Scengruppen Regisseur,10,Gustav III,2010,G3
+Petter,Sjöstrand,Scengruppen Regisseur,10,Gustav III,2010,G3
+Theresa,Hesselbom,Scengruppen Sångchef,10,Gustav III,2010,G3
+Anders,Axelsson,Scengruppen Skådis,10,Gustav III,2010,G3
+Carl-Johan,Waldner,Scengruppen Skådis,10,Gustav III,2010,G3
+Elin,Johansson,Scengruppen Skådis,10,Gustav III,2010,G3
+Gustaf,Wessberg,Scengruppen Skådis,10,Gustav III,2010,G3
+Lena,Beckman,Scengruppen Skådis,10,Gustav III,2010,G3
+Niclas,Blomberg,Scengruppen Skådis,10,Gustav III,2010,G3
+Amy,Zhu,Teknik,10,Gustav III,2010,G3
+David,Bruhn,Teknik,10,Gustav III,2010,G3
+Henrik,Olsson,Teknik,10,Gustav III,2010,G3
+Karin,Hellman,Teknik,10,Gustav III,2010,G3
+Maria,Tauberman,Teknik,10,Gustav III,2010,G3
+Martin,Söderberg,Teknik,10,Gustav III,2010,G3
+Mats,Carensjö,Teknik,10,Gustav III,2010,G3
+Mattias,Lidén,Teknik,10,Gustav III,2010,G3
+Oscar,Canow,Teknik,10,Gustav III,2010,G3
+Sebastian,Orre,Teknik,10,Gustav III,2010,G3
+Anna,Holmberg,Teknik Scenograf,10,Gustav III,2010,G3
+Annie,Gustafsson,Teknikchef,10,Gustav III,2010,G3
+Maria,Tauberman,Directionen Directeur,11,Freud,2011,Freud
+Annika,Rosén,Directionen Ekonomichef,11,Freud,2011,Freud
+Annie,Gustafsson,Directionen Producent,11,Freud,2011,Freud
+John,Larsson,Directionen Turnéchef,11,Freud,2011,Freud
+Anna,Lunmark,KMP,11,Freud,2011,Freud
+Anna-Maria,Stipic,KMP,11,Freud,2011,Freud
+Josefin,Fornander Bertlin,KMP,11,Freud,2011,Freud
+Kristina,Nilsson,KMP,11,Freud,2011,Freud
+Kristoffer,Myrsten,KMP,11,Freud,2011,Freud
+Sofia,Regnell Andersson,KMP,11,Freud,2011,Freud
+Sara,Carlén,KMP-C,11,Freud,2011,Freud
+Kristoffer,Mellberg,Manus,11,Freud,2011,Freud
+Marko,Petrovic,Manus,11,Freud,2011,Freud
+Mattias,Nahlin,Manus,11,Freud,2011,Freud
+Robin,Tyrfors,Manus,11,Freud,2011,Freud
+Stefan,Axelsson,Manus,11,Freud,2011,Freud
+Vendela,Bergfeldt,Manus,11,Freud,2011,Freud
+Gustaf,Wessberg,Manuschef,11,Freud,2011,Freud
+Adam,Renberg,Orkestern,11,Freud,2011,Freud
+Andreas,Bergfelt,Orkestern,11,Freud,2011,Freud
+Anna,Engzell,Orkestern,11,Freud,2011,Freud
+David,Bruhn,Orkestern,11,Freud,2011,Freud
+Erik,Haster,Orkestern,11,Freud,2011,Freud
+Filip,Gloria,Orkestern,11,Freud,2011,Freud
+Henrik,Tyrfors,Orkestern,11,Freud,2011,Freud
+Jan,Smith,Orkestern,11,Freud,2011,Freud
+Joel,Holmberg,Orkestern,11,Freud,2011,Freud
+Jonathan,Murray,Orkestern,11,Freud,2011,Freud
+Kristoffer,Pöljö,Orkestern,11,Freud,2011,Freud
+Lisa-Marie,Carensjö,Orkestern,11,Freud,2011,Freud
+Lydia,Nekludova Stern,Orkestern,11,Freud,2011,Freud
+Mats,Lexell,Orkestern,11,Freud,2011,Freud
+Nils,Erfraimsson,Orkestern,11,Freud,2011,Freud
+Robin,Palmberg,Orkestern,11,Freud,2011,Freud
+Ulrika,Hållstedt,Orkestern,11,Freud,2011,Freud
+Sandra,Tamm,Orkestern Maestro,11,Freud,2011,Freud
+Stephanie,Wikström,Orkestern Orkesterchef,11,Freud,2011,Freud
+Aiman,Josefsson,PR,11,Freud,2011,Freud
+Jenny,Hellenberg,PR,11,Freud,2011,Freud
+Jonian,Grazhdani,PR,11,Freud,2011,Freud
+Knapp Karin,Norrfors,PR,11,Freud,2011,Freud
+Oscar,Canow,PR,11,Freud,2011,Freud
+Philippa,Reuterswärd,PR,11,Freud,2011,Freud
+Ulrika,Sjöström,PR,11,Freud,2011,Freud
+Malin,Engzell Liljefeldt,PR-C,11,Freud,2011,Freud
+Anna,Nilsson,QM,11,Freud,2011,Freud
+Arvid,Bennwik,QM,11,Freud,2011,Freud
+Douglas,Victor,QM,11,Freud,2011,Freud
+Frida,Lundin,QM,11,Freud,2011,Freud
+Lovisa,Blixt,QM,11,Freud,2011,Freud
+Mats,Carensjö,QM,11,Freud,2011,Freud
+Olof,Somell,QM,11,Freud,2011,Freud
+Oskar,Forsslund,QM,11,Freud,2011,Freud
+Sebastian,Orre,QM,11,Freud,2011,Freud
+David,Goldea,QM-C,11,Freud,2011,Freud
+Karin,Nilsson,QM-C,11,Freud,2011,Freud
+Christian,Kothe,Revisor,11,Freud,2011,Freud
+Hannes,Berg,Revisor,11,Freud,2011,Freud
+Theresa,Hesselbom,Scengruppen Musikproducent Skådis,11,Freud,2011,Freud
+Petter,Sjöstrand,Scengruppen Regisseur,11,Freud,2011,Freud
+Johan,Alvfors,Scengruppen Sångchef,11,Freud,2011,Freud
+Josephine,Brofjorden,Scengruppen Scengruppschef,11,Freud,2011,Freud
+Andreas,Torbiörnsson,Scengruppen Skådis,11,Freud,2011,Freud
+Caroline,Wennerström,Scengruppen Skådis,11,Freud,2011,Freud
+Johan,Lundh Heinstedt,Scengruppen Skådis,11,Freud,2011,Freud
+Niclas,Blomberg,Scengruppen Skådis,11,Freud,2011,Freud
+Charlotte,Wessberg,Teknik,11,Freud,2011,Freud
+Daniel,Wikfors,Teknik,11,Freud,2011,Freud
+Kristina,Larsson,Teknik,11,Freud,2011,Freud
+Leonore,Kleinkauf,Teknik,11,Freud,2011,Freud
+Mikael,Strid,Teknik,11,Freud,2011,Freud
+Martin,Carlberg,Teknik Ljud,11,Freud,2011,Freud
+Mattias,Lidén,Teknik Ljud,11,Freud,2011,Freud
+Sandra,Hedberg,Teknik Rekvisitör,11,Freud,2011,Freud
+Henrik,Olsson,Teknik Scenchef,11,Freud,2011,Freud
+Anna,Holmberg,Teknik Scenograf,11,Freud,2011,Freud
+Martin,Söderberg,Teknikchef,11,Freud,2011,Freud
+Andreas,Torbiörnsson,Directionen Directeur,13,Vive la France,2013,VLF
+Sebastian,Orre,Directionen Ekonomichef,13,Vive la France,2013,VLF
+Johan,Lundh Heinstedt,Directionen Producent,13,Vive la France,2013,VLF
+Marko,Petrovic,Directionen Turnéchef,13,Vive la France,2013,VLF
+Annika,Lindén,KMP,13,Vive la France,2013,VLF
+Emma,Callerström,KMP,13,Vive la France,2013,VLF
+Herman,Koch,KMP,13,Vive la France,2013,VLF
+Marie,Stjernquist,KMP,13,Vive la France,2013,VLF
+Klara,Bergman,KMP-C,13,Vive la France,2013,VLF
+Aiman,Josefsson,Manus,13,Vive la France,2013,VLF
+Hannes,Berg,Manus,13,Vive la France,2013,VLF
+Mikael,Strid,Manus,13,Vive la France,2013,VLF
+Theresa,Hesselbom,Manus,13,Vive la France,2013,VLF
+Ulrika,Sjöström,Manus,13,Vive la France,2013,VLF
+Hanna,Asplund,Manuschef,13,Vive la France,2013,VLF
+Adam,Eriksson,Orkestern,13,Vive la France,2013,VLF
+Adelinn,Kalman,Orkestern,13,Vive la France,2013,VLF
+Agnes,Jernström,Orkestern,13,Vive la France,2013,VLF
+Agnes,Lindsten,Orkestern,13,Vive la France,2013,VLF
+Albin,Sunesson,Orkestern,13,Vive la France,2013,VLF
+Alexandra,Johansson,Orkestern,13,Vive la France,2013,VLF
+Jakob,Mellin,Orkestern,13,Vive la France,2013,VLF
+Johanna,Axelsson,Orkestern,13,Vive la France,2013,VLF
+Johanna,Swartling,Orkestern,13,Vive la France,2013,VLF
+Josefin,Fornander Bertlin,Orkestern,13,Vive la France,2013,VLF
+Markus,Silberstein Hont,Orkestern Maestro,13,Vive la France,2013,VLF
+Martin,Carlberg,Orkestern,13,Vive la France,2013,VLF
+Mats,Lexell,Orkestern,13,Vive la France,2013,VLF
+Mattias,Olla,Orkestern,13,Vive la France,2013,VLF
+Peter,Malmgren,Orkestern,13,Vive la France,2013,VLF
+Robin,Tyrfors,Orkestern,13,Vive la France,2013,VLF
+Roy,Arvenäs,Orkestern,13,Vive la France,2013,VLF
+Samuel,Murray,Orkestern,13,Vive la France,2013,VLF
+Stephanie,Wikström,Orkestern,13,Vive la France,2013,VLF
+Ulrika,Hållstedt,Orkestern,13,Vive la France,2013,VLF
+Tove,Mellin,Orkestern Orkesterchef,13,Vive la France,2013,VLF
+Cornelia,Roos,PR,13,Vive la France,2013,VLF
+Jan,Smith,PR,13,Vive la France,2013,VLF
+Kristina,Nilsson,PR,13,Vive la France,2013,VLF
+Matthias,Tidlund,PR,13,Vive la France,2013,VLF
+Thérèce,Bonnier,PR,13,Vive la France,2013,VLF
+Henrik,Tyrfors,PR-C,13,Vive la France,2013,VLF
+Adrian,Rågberg,QM,13,Vive la France,2013,VLF
+Alexandra,Agdelius,QM,13,Vive la France,2013,VLF
+Anders,Rosén,QM,13,Vive la France,2013,VLF
+Daniel,Wikfors,QM,13,Vive la France,2013,VLF
+Henrik,Olsson,QM,13,Vive la France,2013,VLF
+Jonian,Grazhdani,QM,13,Vive la France,2013,VLF
+Linda,Svedberg,QM,13,Vive la France,2013,VLF
+Max,Nordlund,QM,13,Vive la France,2013,VLF
+Sandra,Hedberg,QM,13,Vive la France,2013,VLF
+Annie,Gustafsson,QM-C,13,Vive la France,2013,VLF
+John,Larsson,Revisor,13,Vive la France,2013,VLF
+Kathrin,Vorwerk,Revisor,13,Vive la France,2013,VLF
+Niclas,Blomberg,Scengruppen Koreograf,13,Vive la France,2013,VLF
+Vendela,Bergfeldt,Scengruppen Regisseur,13,Vive la France,2013,VLF
+Nora,Bergfeldt,Scengruppen Sångchef,13,Vive la France,2013,VLF
+Annika,Davén,Scengruppen Scengruppschef,13,Vive la France,2013,VLF
+Cecilia,Schött,Scengruppen Skådis,13,Vive la France,2013,VLF
+Eleonora,Wedin,Scengruppen Skådis,13,Vive la France,2013,VLF
+Gustaf,Wessberg,Scengruppen Skådis,13,Vive la France,2013,VLF
+Jonas,Karlsson,Scengruppen Skådis,13,Vive la France,2013,VLF
+Lena,Beckman,Scengruppen Skådis,13,Vive la France,2013,VLF
+Leo,Ullemar Loenbom,Scengruppen Skådis,13,Vive la France,2013,VLF
+Andreas,Böhlin,Teknik,13,Vive la France,2013,VLF
+Johan,Gasslander,Teknik,13,Vive la France,2013,VLF
+John,Åkerhielm,Teknik,13,Vive la France,2013,VLF
+Kristina,Larsson,Teknik,13,Vive la France,2013,VLF
+Marcus,Dröschmeister,Teknik,13,Vive la France,2013,VLF
+Mats,Carensiö,Teknik,13,Vive la France,2013,VLF
+Tomas,Uzdavinys,Teknik,13,Vive la France,2013,VLF
+Tove,Mesch,Teknik,13,Vive la France,2013,VLF
+Emelie,Smeds,Teknik Scenograf,13,Vive la France,2013,VLF
+Oscar,Canow,Teknikchef,13,Vive la France,2013,VLF
+Jan,Smith,Directionen Ekonomichef,14,Hadrianus Mur,2014,had
+Lena,Beckman,Gyckelgruppen Gyckelgruppschef,14,Hadrianus Mur,2014,had
+John,Larsson,Revisorerna,14,Hadrianus Mur,2014,had
+Johan,Samuelsson,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Martin,Carlberg,Orkestern Ljud,14,Hadrianus Mur,2014,had
+Stefan,Axelsson,Directionen Directeur,14,Hadrianus Mur,2014,had
+Gustaf,Wessberg,Manus,14,Hadrianus Mur,2014,had
+Tomas,Åbrandt,Teknik Scenograf,14,Hadrianus Mur,2014,had
+Sandra,Hedberg,Orkestern,14,Hadrianus Mur,2014,had
+Caroline,Wennerström ,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Henrik,Olsson,PR,14,Hadrianus Mur,2014,had
+Eleonora,Wedin,Gyckelgruppen,14,Hadrianus Mur,2014,had
+Frida,Strömberg,Orkestern,14,Hadrianus Mur,2014,had
+Alexandra,Agdelius,QM-C,14,Hadrianus Mur,2014,had
+Kristina,Nilsson,PR-C,14,Hadrianus Mur,2014,had
+Mikael,Strid,Manuschef,14,Hadrianus Mur,2014,had
+Linda,Svedberg,Revisorerna,14,Hadrianus Mur,2014,had
+Robin,Tyrfors,Manus,14,Hadrianus Mur,2014,had
+Oskar,Öberg,Orkestern,14,Hadrianus Mur,2014,had
+Douglas Victor,Cedrum,PR,14,Hadrianus Mur,2014,had
+Jonas,Karlsson,Manus,14,Hadrianus Mur,2014,had
+C. W.,Hagander,QM,14,Hadrianus Mur,2014,had
+Matthias,Tidlund,PR,14,Hadrianus Mur,2014,had
+Stephanie,Wikström,Orkestern,14,Hadrianus Mur,2014,had
+Claudia,Lopez,KMP,14,Hadrianus Mur,2014,had
+Hugo,Eriksson,Orkestern,14,Hadrianus Mur,2014,had
+Tomas,Uzdavinys,Tekniken,14,Hadrianus Mur,2014,had
+Annie,Wessberg,Manus,14,Hadrianus Mur,2014,had
+Jonathan,Engvall,Orkestern,14,Hadrianus Mur,2014,had
+Tove,Mellin,Orkestern,14,Hadrianus Mur,2014,had
+Chanel,Braddon,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Max,Nordlund,Manus,14,Hadrianus Mur,2014,had
+Johan,Gasslander ,Teknikchef,14,Hadrianus Mur,2014,had
+Johan,Bergsten,Manus,14,Hadrianus Mur,2014,had
+Alexander,Radig,QM,14,Hadrianus Mur,2014,had
+Anders,Rosén,QM,14,Hadrianus Mur,2014,had
+Thérèce,Bonnier,PR,14,Hadrianus Mur,2014,had
+Tove,Mesch,KMP,14,Hadrianus Mur,2014,had
+Jessica,Schering,Teknik,14,Hadrianus Mur,2014,had
+Kristina,Larsson,Directionen Turnéchef,14,Hadrianus Mur,2014,had
+Åsa,Fredriksson,Scengruppen Koreograf,14,Hadrianus Mur,2014,had
+Leo,Ullemar Loenbom,Gyckelgruppen,14,Hadrianus Mur,2014,had
+Rasmus,Rolandsson,QM,14,Hadrianus Mur,2014,had
+Jonas,Häggmark,QM,14,Hadrianus Mur,2014,had
+John,Åkerhielm,Teknik,14,Hadrianus Mur,2014,had
+Lisa,Karlsson,QM,14,Hadrianus Mur,2014,had
+Erika,Rodin,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Alexander,Charlamov,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Linnea,Österberg,Scengruppen Sångchef,14,Hadrianus Mur,2014,had
+Alexandra,Johansson,Orkestern,14,Hadrianus Mur,2014,had
+Erik,Niemeyer ,Teknik,14,Hadrianus Mur,2014,had
+Claes,Hällström,Scengruppen Skådis,14,Hadrianus Mur,2014,had
+Olivia,Marchesini,KMP,14,Hadrianus Mur,2014,had
+Daniel,Labriz,QM,14,Hadrianus Mur,2014,had
+Agnes,Jernström,Orkestern,14,Hadrianus Mur,2014,had
+Adrian,Rågberg,Tekniken,14,Hadrianus Mur,2014,had
+Andreas,Böhlin,Directionen Producent,14,Hadrianus Mur,2014,had
+Felix,Jontegen,PR,14,Hadrianus Mur,2014,had
+Isabelle,Hallman,Orkestern,14,Hadrianus Mur,2014,had
+Jacob,Edström,Gyckelgruppen,14,Hadrianus Mur,2014,had
+Marianne,Ljungberg,Orkestern,14,Hadrianus Mur,2014,had
+Herman,Koch,KMP,14,Hadrianus Mur,2014,had
+Sebastian,Kreisel,QM,14,Hadrianus Mur,2014,had
+Mattias,Olla,Orkestern Maestro,14,Hadrianus Mur,2014,had
+Philipp,Lassarén,Orkestern,14,Hadrianus Mur,2014,had
+Christoffer,Mikaelsson,QM,14,Hadrianus Mur,2014,had
+Jonathan,Al-Ani,Teknik,14,Hadrianus Mur,2014,had
+Markus,Körner,Orkestern,14,Hadrianus Mur,2014,had
+Christofer,Lundén,Orkestern,14,Hadrianus Mur,2014,had
+Simon,Lindståhl,Orkestern,14,Hadrianus Mur,2014,had
+Söderström,Jonas,Orkestern,14,Hadrianus Mur,2014,had
+Adrian,Ahlin,Orkestern,14,Hadrianus Mur,2014,had
+Jonas,Söderström,Orkestern,14,Hadrianus Mur,2014,had
+Edwards,Tobias,Orkestern,14,Hadrianus Mur,2014,had
+Aiman,Josefsson,Scengruppen Regisseur,14,Hadrianus Mur,2014,had
+Theresa,Hesselbom,Scengruppen Regiassistent,14,Hadrianus Mur,2014,had
+Thérèce,Bonnier,Directionen Directeur,15,Bonnie & Clyde,2015,BnC
+Jan,Smith,Directionen Ekonomichef,15,Bonnie & Clyde,2015,BnC
+Claes,Hällström,Directionen Producent,15,Bonnie & Clyde,2015,BnC
+Alexandra,Agdelius,Directionen Turnéchef,15,Bonnie & Clyde,2015,BnC
+Felix,Andersson,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Linnea,Österberg ,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Lena,Beckman,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Jacob,Edström,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Theresa,Hesselbom,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Aiman,Josefsson,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Phillip,Nässén,Gyckelgruppen,15,Bonnie & Clyde,2015,BnC
+Leo,Ullemar Loenbom,Gyckelgruppen Gyckelgruppschef,15,Bonnie & Clyde,2015,BnC
+John,Åkerhielm,KMP,15,Bonnie & Clyde,2015,BnC
+Kajsa,Vogel,KMP,15,Bonnie & Clyde,2015,BnC
+Jenny,Hällström,KMP,15,Bonnie & Clyde,2015,BnC
+Emma,Simonsson,KMP,15,Bonnie & Clyde,2015,BnC
+Annika,Lindén,KMP-C,15,Bonnie & Clyde,2015,BnC
+Per-Mikael,Strid,Manus,15,Bonnie & Clyde,2015,BnC
+Erika,Rodin,Manus,15,Bonnie & Clyde,2015,BnC
+Erik,Niemeyer,Manus,15,Bonnie & Clyde,2015,BnC
+Adrian,Rågberg,Manus,15,Bonnie & Clyde,2015,BnC
+Marko,Petrovic,Manus,15,Bonnie & Clyde,2015,BnC
+Johan,Zackrisson,Manus,15,Bonnie & Clyde,2015,BnC
+Jessica,Schering,Manus,15,Bonnie & Clyde,2015,BnC
+Robin,Tyrfors,Manuschef,15,Bonnie & Clyde,2015,BnC
+Mattias,Olla,Orkestern Maestro,15,Bonnie & Clyde,2015,BnC
+Johan,Gasslander ,Orkestern,15,Bonnie & Clyde,2015,BnC
+Martin,Carlberg,Orkestern,15,Bonnie & Clyde,2015,BnC
+Stephanie,Wikström,Orkestern,15,Bonnie & Clyde,2015,BnC
+Jonathan,Engvall,Orkestern,15,Bonnie & Clyde,2015,BnC
+Hugo,Eriksson,Orkestern,15,Bonnie & Clyde,2015,BnC
+Oskar,Öberg,Orkestern,15,Bonnie & Clyde,2015,BnC
+Marianne,Ljungberg,Orkestern,15,Bonnie & Clyde,2015,BnC
+Lucia,Edwards,Orkestern,15,Bonnie & Clyde,2015,BnC
+Daniel,Barnabé,Orkestern,15,Bonnie & Clyde,2015,BnC
+Natalie,Karlsson Håård,Orkestern,15,Bonnie & Clyde,2015,BnC
+Jonas,Barrskog,Orkestern,15,Bonnie & Clyde,2015,BnC
+Jonas,Söderström,Orkestern,15,Bonnie & Clyde,2015,BnC
+Adrian,Ahlin,Orkestern,15,Bonnie & Clyde,2015,BnC
+Tobias,Edwards,Orkestern,15,Bonnie & Clyde,2015,BnC
+Simon,Lindståhl ,Orkestern Orkesterchef,15,Bonnie & Clyde,2015,BnC
+Andreas,Böhlin,PR,15,Bonnie & Clyde,2015,BnC
+Tove,Mellin,PR,15,Bonnie & Clyde,2015,BnC
+Alexandra,Johansson,PR,15,Bonnie & Clyde,2015,BnC
+Johanna,Eng,PR,15,Bonnie & Clyde,2015,BnC
+Matthias,Tidlund,PR,15,Bonnie & Clyde,2015,BnC
+Alexis,Beijer,PR,15,Bonnie & Clyde,2015,BnC
+Felix,Jontegen,PR-C,15,Bonnie & Clyde,2015,BnC
+Susanne,Bergstrand ,QM,15,Bonnie & Clyde,2015,BnC
+Andres,Ellexelius,QM,15,Bonnie & Clyde,2015,BnC
+Ahmed,Warsame,QM,15,Bonnie & Clyde,2015,BnC
+Douglas,Victor,QM,15,Bonnie & Clyde,2015,BnC
+Linda,Svedberg,Revisor,15,Bonnie & Clyde,2015,BnC
+Cecilia,Schött,Revisor,15,Bonnie & Clyde,2015,BnC
+Mathilda,Lundeberg,Scengruppen Koreograf,15,Bonnie & Clyde,2015,BnC
+Alexander,Charlamov,Scengruppen Regisseur,15,Bonnie & Clyde,2015,BnC
+Jonas,Karlsson,Scengruppen Sångchef,15,Bonnie & Clyde,2015,BnC
+David,Tennander,Scengruppen Skådis,15,Bonnie & Clyde,2015,BnC
+Christoffer,Lambertsson ,Scengruppen Skådis,15,Bonnie & Clyde,2015,BnC
+Fanny,Furberg,Scengruppen Skådis,15,Bonnie & Clyde,2015,BnC
+Anna,Hankers,Scengruppen Skådis,15,Bonnie & Clyde,2015,BnC
+Johan,Bergsten,Scengruppen Skådis,15,Bonnie & Clyde,2015,BnC
+Hugo,Hildingsson,Teknik,15,Bonnie & Clyde,2015,BnC
+Kristoffer,Wasner ,Teknik,15,Bonnie & Clyde,2015,BnC
+Tasnim,Alhosny,Teknik,15,Bonnie & Clyde,2015,BnC
+Joakim,Wassinge Holmström,Teknik,15,Bonnie & Clyde,2015,BnC
+Tomas,Uzdavinys,Teknik,15,Bonnie & Clyde,2015,BnC
+Ola,Roos,Teknik,15,Bonnie & Clyde,2015,BnC
+Kristin,Nedlich,Teknik Scenograf,15,Bonnie & Clyde,2015,BnC
+Johannes,Boo,Teknikchef,15,Bonnie & Clyde,2015,BnC
+Oskar,Forsslund,Directionen Directeur,12,På Gränsen,2012,PåG
+Anna,Holmberg,Directionen Producent,12,På Gränsen,2012,PåG
+Kathrin,Vorwerk,Directionen Ekonomichef,12,På Gränsen,2012,PåG
+Josephine,Brofjorden,Directionen Turnéchef,12,På Gränsen,2012,PåG
+Daniel,Wikfors,Teknikchef,12,På Gränsen,2012,PåG
+Thérèce,Bonnier,Teknik,12,På Gränsen,2012,PåG
+Kristina,Larsson,Teknik,12,På Gränsen,2012,PåG
+Anders,Rosén,Teknik,12,På Gränsen,2012,PåG
+Johan,Gasslander,Teknik,12,På Gränsen,2012,PåG
+Gustav,Lundström,Teknik Scenograf,12,På Gränsen,2012,PåG
+Mats,Carensiö,Teknik,12,På Gränsen,2012,PåG
+Per-Viktor,Bryntesson,Teknik,12,På Gränsen,2012,PåG
+Johan,Kang,Teknik,12,På Gränsen,2012,PåG
+Agnes,Lindsten,Orkestern Maestro,12,På Gränsen,2012,PåG
+Johanna,Swartling,Orkestern Orkesterchef,12,På Gränsen,2012,PåG
+Tove,Mellin,Orkestern,12,På Gränsen,2012,PåG
+Markus,Silberstein Hont,Orkestern,12,På Gränsen,2012,PåG
+David,Bruhn,Orkestern,12,På Gränsen,2012,PåG
+Adam,Eriksson,Orkestern,12,På Gränsen,2012,PåG
+Charlotte,Wessberg,Orkestern,12,På Gränsen,2012,PåG
+Elias,Lousseief,Orkestern,12,På Gränsen,2012,PåG
+Anna,Engzell,Orkestern,12,På Gränsen,2012,PåG
+Henrik,Tyrfors,Orkestern,12,På Gränsen,2012,PåG
+Mats,Lexell,Orkestern,12,På Gränsen,2012,PåG
+Viktor,Winther,Orkestern,12,På Gränsen,2012,PåG
+Robin,Palmberg,Orkestern,12,På Gränsen,2012,PåG
+Nils,Efraimsson,Orkestern,12,På Gränsen,2012,PåG
+Joel,Holmberg,Orkestern,12,På Gränsen,2012,PåG
+Jonathan,Murray,Orkestern,12,På Gränsen,2012,PåG
+Johan,Rooth,Orkestern Ljud,12,På Gränsen,2012,PåG
+Martin,Carlberg,Orkestern Ljud,12,På Gränsen,2012,PåG
+Filip,Gloria,Orkestern,12,På Gränsen,2012,PåG
+Andreas,Bergfelt,Orkestern,12,På Gränsen,2012,PåG
+Linda,Svedberg,KMP-C,12,På Gränsen,2012,PåG
+Maria,Tauberman,KMP,12,På Gränsen,2012,PåG
+Kristina,Nilsson,KMP,12,På Gränsen,2012,PåG
+Ida,Wikfors,KMP,12,På Gränsen,2012,PåG
+Justine,Trenh,KMP,12,På Gränsen,2012,PåG
+Stephanie,Wikström,KMP,12,På Gränsen,2012,PåG
+Marko,Petrovic,KMP,12,På Gränsen,2012,PåG
+John,Larsson,Scengruppen Musikproducent,12,På Gränsen,2012,PåG
+Petter,Sjöstrand,Scengruppen Koreograf Regisseur,12,På Gränsen,2012,PåG
+Annika,Rosén,Scengruppen Sångchef,12,På Gränsen,2012,PåG
+Gustaf,Wessberg,Scengruppen Skådis,12,På Gränsen,2012,PåG
+Philippa,Reuterswärd,Scengruppen Skådis,12,På Gränsen,2012,PåG
+Aiman,Josefsson,Scengruppen Skådis,12,På Gränsen,2012,PåG
+Carl-Johan,Waldner,Scengruppen Skådis,12,På Gränsen,2012,PåG
+Vendela,Bergfeldt,Scengruppen Skådis,12,På Gränsen,2012,PåG
+Kristine,Berget,QM-C,12,På Gränsen,2012,PåG
+Kristoffer,Myrsten,QM,12,På Gränsen,2012,PåG
+Henrik,Olsson,QM,12,På Gränsen,2012,PåG
+Mikael,Strid,QM,12,På Gränsen,2012,PåG
+Alexandra,Agdelius,QM,12,På Gränsen,2012,PåG
+Sandra,Hedberg,QM,12,På Gränsen,2012,PåG
+Sebastian,Orre,QM,12,På Gränsen,2012,PåG
+Cecilia,Schött,QM,12,På Gränsen,2012,PåG
+Annie,Gustafsson,QM,12,På Gränsen,2012,PåG
+Lisa-Maria,Carensiö,PR-C,12,På Gränsen,2012,PåG
+Andreas,Torbiörnsson,PR,12,På Gränsen,2012,PåG
+Stefan,Axelsson,PR,12,På Gränsen,2012,PåG
+Caroline,Wennerström ,PR,12,På Gränsen,2012,PåG
+Douglas,Victor,PR,12,På Gränsen,2012,PåG
+Ulrika,Sjöström,PR,12,På Gränsen,2012,PåG
+Theresa,Hesselbom,PR,12,På Gränsen,2012,PåG
+Johan,Lundh Heinstedt,PR,12,På Gränsen,2012,PåG
+Knapp Karin,Norrfors,PR,12,På Gränsen,2012,PåG
+Hannes,Berg,Revisor,12,På Gränsen,2012,PåG
+Magnus,Tilert,Revisor,12,På Gränsen,2012,PåG
