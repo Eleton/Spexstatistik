@@ -101,8 +101,7 @@ function intiAmazeChart(){
 
 	
 
-	spexCirklar/
-	.each(slide);
+	spexCirklar.each(slide);
 
 
 	function slide() {
